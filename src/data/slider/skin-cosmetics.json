@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "subTitle": "<div class=\"tp-cosmetics-wd-1 tt-base-color\">LIMITED-TIME ONLY</div>",
+    "title": "<div class=\"tp-cosmetics-wd-2 tp-caption\">BUY ONE,<br> GET UP TO 50% OFF</div>",
+    "content": null,
+    "btnText": "SHOP NOW!",
+    "btnLink": "/product/category/cosmetics",
+    "btnClass": null,
+    "bgImage": "/assets/images/skins/cosmetics/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "subTitle": "<div class=\"tp-cosmetics-wd-1 tt-base-color\">ONLINE & IN-APP ONLY</div>",
+    "title": "<div class=\"tp-cosmetics-wd-2 tp-caption\">FREE SHIPPING<br>ON ORDERSOVER $25!</div>",
+    "content": null,
+    "btnText": "SHOP NOW!",
+    "btnLink": "/product/category/cosmetics",
+    "btnClass": null,
+    "bgImage": "/assets/images/skins/cosmetics/slides/slide-02.jpg"
+  }
+]

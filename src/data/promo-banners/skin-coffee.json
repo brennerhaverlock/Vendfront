@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "subtitle": null,
+    "title": "<span class=\"tt-white-color\">Espresso Machines</span>",
+    "thumb": "/assets/images/skins/coffee/coffee-09.jpg",
+    "btn": false,
+    "btnText": "Discover now →",
+    "btnLink": "/shop",
+    "btnClass": "d-inline-block"
+  },
+  {
+    "id": 2,
+    "subtitle": null,
+    "title": "<span class=\"tt-base-color\">Coffee</span>",
+    "thumb": "/assets/images/skins/coffee/coffee-08.jpg",
+    "btn": false,
+    "btnText": "Discover now →",
+    "btnLink": "/shop",
+    "btnClass": "d-inline-block tt-white-color"
+  }
+]

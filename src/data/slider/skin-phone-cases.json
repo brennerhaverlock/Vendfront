@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption1-wd-2 tt-base-dark-color\">Find Your Ideal<br>Phone Case</div>",
+    "subTitle": "<div class=\"tp-caption1-wd-1 tt-base-color\">Cell Phone Cases</div>",
+    "content": "<div class=\"tp-caption1-wd-3\">Get the lowest prices on cell phone cases</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/product/category/phones",
+    "bgImage": "/assets/images/skins/phone-cases/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class='tp-caption1-wd-2 tt-white-color'>Use Unique <br/> Demos</div>",
+    "subTitle": "<span class='tp-caption1-wd-1 tt-base-color'>Ready to</span>",
+    "content": null,
+    "btnText": "SHOP NOW!",
+    "btnLink": "/product/category/phones",
+    "bgImage": "/assets/images/skins/phone-cases/slides/slide-02.jpg"
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "subTitle": "<div class=\"tp-caption1-wd-1\"><span class='tt-color-dark'>Sale for a week.</span></div>",
+    "title": "<div class=\"tp-caption1-wd-2\"><span class='tt-color-dark'>FIND YOUR<br>PERFECT BIKE!</span></div>",
+    "content": "<div class=\"tp-caption1-wd-3\">23 skins, powerful features, great support, exclusive offer</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "btnClass": "btn-dark",
+    "bgImage": "/assets/images/skins/bikes/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "subTitle": "<div class=\"tp-caption1-wd-1 tt-white-color\">NEW ARRIVALS</div>",
+    "title": "<div class=\"tp-caption1-wd-2 tt-white-color\">NEW bike FOR 2021!</div>",
+    "content": null,
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "btnClass": "",
+    "bgImage": "/assets/images/skins/bikes/slides/slide-02.jpg"
+  }
+]

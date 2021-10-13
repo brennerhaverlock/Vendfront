@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-kids-clothes-wd-2\">Denim from <span class=\"tt-base-color\">$9.99</span></div>",
+    "subTitle": "<div class=\"tp-kids-clothes-wd-1\">ALL ABOARD!</div>",
+    "content": null,
+    "btnText": "Discover Now",
+    "btnLink": "/product/category/kids-clothes",
+    "btnClass":  "btn-white",
+    "bgImage": "/assets/images/skins/kids/slides/slide-01.jpg"
+  }
+]

@@ -1,0 +1,1828 @@
+[
+  {
+    "id": 1,
+    "sku": "asdf101",
+    "name": "Relaxed-Fit Cotton Shirt",
+    "ratings": 4.5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 56,
+    "vendor": "GUESS",
+    "type": [
+      "tending",
+      "featured"
+    ],
+    "categories": [
+      "casual",
+      "women",
+      "shirt"
+    ],
+    "tags": [
+      "shirt",
+      "women"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-01.jpg",
+      "/assets/images/product/product-01-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-01.jpg",
+      "/assets/images/product/product-01-02.jpg",
+      "/assets/images/product/product-01-03.jpg",
+      "/assets/images/product/product-01-04.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Grey",
+        "color": {
+          "name": "grey",
+          "thumb": "/assets/images/product/product-01.jpg",
+          "code": "#E3E7EB"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 49.99
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Green",
+        "color": {
+          "name": "green",
+          "thumb": "/assets/images/product/product-01-03.jpg",
+          "code": "#D6E4E0"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 11.50
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 12.11
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 6
+          },
+          {
+            "name": "m",
+            "stock": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "sku": "bsdf121",
+    "name": "East Hampton Fleece Hoodie",
+    "ratings": 5,
+    "discount": 20,
+    "discountDuration": "2022-04-03",
+    "badge": null,
+    "totalSale": 44,
+    "vendor": "ONE UMMAH",
+    "type": [
+      "specials",
+      "tending"
+    ],
+    "categories": [
+      "men",
+      "women",
+      "dresses"
+    ],
+    "tags": [
+      "cap",
+      "men",
+      "winter"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-02.jpg",
+      "/assets/images/product/product-02-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-02-02.jpg",
+      "/assets/images/product/product-02-03.jpg",
+      "/assets/images/product/product-02-04.jpg",
+      "/assets/images/product/product-02-05.jpg",
+      "/assets/images/product/product-02-06.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-02.jpg",
+          "code": "#2D3144"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 82
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 45
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 98
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 31
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 5
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Grey",
+        "color": {
+          "name": "grey",
+          "thumb": "/assets/images/product/product-02-04.jpg",
+          "code": "#D4D4D4"
+        },
+        "materials": [
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 23
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 120
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "sku": "csdf131",
+    "name": "Elastic Women Pencil Jeans Pants",
+    "ratings": 4,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 55,
+    "vendor": "GAS",
+    "type": [
+      "featured"
+    ],
+    "categories": [
+      "women",
+      "jeans",
+      "pants"
+    ],
+    "tags": [
+      "jeans",
+      "pants",
+      "fashion"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-03.jpg",
+      "/assets/images/product/product-03-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-03.jpg",
+      "/assets/images/product/product-03-02.jpg",
+      "/assets/images/product/product-03-03.jpg",
+      "/assets/images/product/product-03-04.jpg",
+      "/assets/images/product/product-03-05.jpg",
+      "/assets/images/product/product-03-06.jpg",
+      "/assets/images/product/product-03-07.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Blue",
+        "color": {
+          "name": "blue",
+          "thumb": "/assets/images/product/product-03.jpg",
+          "code": "#023AA9"
+        },
+        "materials": [
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 112
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 54
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 93.33
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 99.99
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 12
+          },
+          {
+            "name": "m",
+            "stock": 4
+          },
+          {
+            "name": "x",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Light Blue",
+        "color": {
+          "name": "light-blue",
+          "thumb": "/assets/images/product/product-03-04.jpg",
+          "code": "#0063AF"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 62.12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23.43
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Green",
+        "color": {
+          "name": "green",
+          "thumb": "/assets/images/product/product-03-05.jpg",
+          "code": "#B7E4E0"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 21
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 3
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 9.55
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "x",
+            "stock": 15
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Pink",
+        "color": {
+          "name": "pink",
+          "thumb": "/assets/images/product/product-03-06.jpg",
+          "code": "#D90F5E"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 11
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 22
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 33
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 13
+          },
+          {
+            "name": "m",
+            "stock": 2
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Orange",
+        "color": {
+          "name": "orange",
+          "thumb": "/assets/images/product/product-03-07.jpg",
+          "code": "#F49D2E"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 44
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 55
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 33
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "sku": "dsdf141",
+    "name": "Tailored Fit Mesh-Panel Polo",
+    "ratings": 2.5,
+    "discount": 45,
+    "discountDuration": "2021-12-30",
+    "badge": "featured",
+    "totalSale": 91,
+    "vendor": "SEMIR",
+    "type": [
+      "specials",
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "t-shirt"
+    ],
+    "tags": [
+      "polo",
+      "summer",
+      "t-shirt"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-04.jpg",
+      "/assets/images/product/product-04-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-04.jpg",
+      "/assets/images/product/product-04-02.jpg",
+      "/assets/images/product/product-04-03.jpg",
+      "/assets/images/product/product-04-04.jpg",
+      "/assets/images/product/product-04-05.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Blue",
+        "color": {
+          "name": "blue",
+          "thumb": "/assets/images/product/product-04.jpg",
+          "code": "#0E398E"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 81
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 23
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Lemon",
+        "color": {
+          "name": "lemon",
+          "thumb": "/assets/images/product/product-04-04.jpg",
+          "code": "#93E371"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 32
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 121
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 45
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 67.77
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "sku": "esdf145",
+    "name": "Viscose-Cashmere Scarf",
+    "ratings": 3.5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": null,
+    "totalSale": 134,
+    "vendor": "SATIN",
+    "type": [
+      "featured",
+      "tending"
+    ],
+    "categories": [
+      "scarf",
+      "fashion"
+    ],
+    "tags": [
+      "girl",
+      "women",
+      "scarf"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-05.jpg",
+      "/assets/images/product/product-05-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-05.jpg",
+      "/assets/images/product/product-05-02.jpg",
+      "/assets/images/product/product-05-03.jpg",
+      "/assets/images/product/product-05-04.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Light Blue",
+        "color": {
+          "name": "light-blue",
+          "thumb": "/assets/images/product/product-05.jpg",
+          "code": "#C0CDDD"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 32
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 121
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 45
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 67.77
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 10
+          },
+          {
+            "name": "x",
+            "stock": 14
+          },
+          {
+            "name": "xl",
+            "stock": 11
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Blue",
+        "color": {
+          "name": "blue",
+          "thumb": "/assets/images/product/product-05-03.jpg",
+          "code": "#93E371"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 81
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 23
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-05-04.jpg",
+          "code": "#93E371"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 121
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 45
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 67.77
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "sku": "ysdf161",
+    "name": "Plaid Cotton Oxford Shirt",
+    "ratings": 5,
+    "discount": 9.99,
+    "discountDuration": "2022-02-18",
+    "badge": "New",
+    "totalSale": 75,
+    "vendor": "OXFORD",
+    "type": [
+      "featured",
+      "specials",
+      "tending"
+    ],
+    "categories": [
+      "men",
+      "clothing"
+    ],
+    "tags": [
+      "shorts",
+      "Cool",
+      "Nice"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-06.jpg",
+      "/assets/images/product/product-06-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-06.jpg",
+      "/assets/images/product/product-06-02.jpg",
+      "/assets/images/product/product-06-03.jpg",
+      "/assets/images/product/product-06-04.jpg",
+      "/assets/images/product/product-06-05.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Blue",
+        "color": {
+          "name": "blue",
+          "thumb": "/assets/images/product/product-06.jpg",
+          "code": "#0063AF"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 62.12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23.43
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 0
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Pink",
+        "color": {
+          "name": "pink",
+          "thumb": "/assets/images/product/product-06-04.jpg",
+          "code": "#B7E4E0"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 21
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 3
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 9.55
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "x",
+            "stock": 15
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Green",
+        "color": {
+          "name": "green",
+          "thumb": "/assets/images/product/product-06-05.jpg",
+          "code": "#D90F5E"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 11
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 22
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 33
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 0
+          },
+          {
+            "name": "m",
+            "stock": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "sku": "xsdf177",
+    "name": "Faxon Canvas Low-Top Sneaker",
+    "ratings": 4.5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 89,
+    "vendor": "ZARA",
+    "type": [
+      "featured",
+      "specials"
+    ],
+    "categories": [
+      "shoe",
+      "lifestyle",
+      "men",
+      "women"
+    ],
+    "tags": [
+      "shoes",
+      "men",
+      "sport"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-07.jpg",
+      "/assets/images/product/product-07-03.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-07.jpg",
+      "/assets/images/product/product-07-02.jpg",
+      "/assets/images/product/product-07-03.jpg",
+      "/assets/images/product/product-07-04.jpg",
+      "/assets/images/product/product-07-05.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Blue",
+        "color": {
+          "name": "blue",
+          "thumb": "/assets/images/product/product-07-02.jpg",
+          "code": "#023AA9"
+        },
+        "materials": [
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 112
+          },
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 54
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 93.33
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 99.99
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 12
+          },
+          {
+            "name": "m",
+            "stock": 4
+          },
+          {
+            "name": "x",
+            "stock": 1
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Grey",
+        "color": {
+          "name": "grey",
+          "thumb": "/assets/images/product/product-07-04.jpg",
+          "code": "#0063AF"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 62.12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23.43
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 2
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Brown",
+        "color": {
+          "name": "brown",
+          "thumb": "/assets/images/product/product-07-05.jpg",
+          "code": "#B7E4E0"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 21
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 3
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 9.55
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 2
+          },
+          {
+            "name": "x",
+            "stock": 15
+          },
+          {
+            "name": "xl",
+            "stock": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "sku": "bsdf181",
+    "name": "Paint-Splatter Fleece Pullover",
+    "ratings": 2.5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": null,
+    "totalSale": 101,
+    "vendor": "LACOSTE",
+    "type": [
+      "specials"
+    ],
+    "categories": [
+      "women",
+      "jacket"
+    ],
+    "tags": [
+      "vintage",
+      "awesome",
+      "beachwear",
+      "summer"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-08.jpg",
+      "/assets/images/product/product-08-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-08.jpg",
+      "/assets/images/product/product-08-02.jpg",
+      "/assets/images/product/product-08-03.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Black White",
+        "color": {
+          "name": "black-white",
+          "thumb": "/assets/images/product/product-08.jpg",
+          "code": "#0E398E"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 81
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 23
+          }
+        ],
+        "sizes": [
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 4
+          },
+          {
+            "name": "xl",
+            "stock": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "sku": "9sdf1b1",
+    "name": "Two-Tone Sleeveless Dress",
+    "ratings": 4.5,
+    "discount": 50,
+    "discountDuration": "2022-02-18",
+    "badge": "Featured",
+    "totalSale": 123,
+    "vendor": "GUESS",
+    "type": [
+      "tending",
+      "specials",
+      "featured"
+    ],
+    "categories": [
+      "women",
+      "fashion"
+    ],
+    "tags": [
+      "Sunglasses",
+      "Winter",
+      "Nice",
+      "Cool"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-09.jpg",
+      "/assets/images/product/product-09-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-09.jpg",
+      "/assets/images/product/product-09-02.jpg",
+      "/assets/images/product/product-09-03.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": null,
+    "price": 340,
+    "stock": 6,
+    "color": {
+      "name": "red",
+      "thumb": "/assets/images/product/product-09.jpg",
+      "code": "#D52B2A"
+    },
+    "material": {
+      "name": "Cotton",
+      "slug": "cotton",
+      "thumb": "/assets/images/texture/texture-img-01.jpg"
+    },
+    "size": "xl"
+  },
+  {
+    "id": 10,
+    "sku": "9sdf110",
+    "name": "Skinny Fit Stretch Mesh Polo",
+    "ratings": 5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 187,
+    "vendor": "LEVI'S",
+    "type": [
+      "tending",
+      "featured"
+    ],
+    "categories": [
+      "women",
+      "men",
+      "t-shirt"
+    ],
+    "tags": [
+      "sunglasses",
+      "winter",
+      "cool"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-10.jpg",
+      "/assets/images/product/product-10-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-10.jpg",
+      "/assets/images/product/product-10-02.jpg",
+      "/assets/images/product/product-10-03.jpg",
+      "/assets/images/product/product-10-04.jpg",
+      "/assets/images/product/product-10-05.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Light Blue",
+        "color": {
+          "name": "light-blue",
+          "thumb": "/assets/images/product/product-10.jpg",
+          "code": "#D8E1E2"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 322
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-06.jpg",
+            "price": 121
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 7
+          },
+          {
+            "name": "x",
+            "stock": 3
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Beige",
+        "color": {
+          "name": "beige",
+          "thumb": "/assets/images/product/product-10-04.jpg",
+          "code": "#E8DFDE"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 22
+          },
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 12
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "xl",
+            "stock": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "sku": "11sdf1",
+    "name": "Wimbledon Cross Court Cap",
+    "ratings": 3,
+    "discount": null,
+    "discountDuration": null,
+    "badge": "Featured",
+    "totalSale": 167,
+    "vendor": "ZARA",
+    "type": [
+      "specials",
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "accessories"
+    ],
+    "tags": [
+      "awesome",
+      "summer",
+      "beachwear"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-11.jpg",
+      "/assets/images/product/product-11-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-11.jpg",
+      "/assets/images/product/product-11-02.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": null,
+    "price": 140,
+    "stock": 3,
+    "color": {
+      "name": "blue",
+      "thumb": "/assets/images/product/product-11.jpg",
+      "code": "#24ADF3"
+    },
+    "material": {
+      "name": "Polyester",
+      "slug": "polyester",
+      "thumb": "/assets/images/texture/texture-img-01.jpg"
+    },
+    "size": "x"
+  },
+  {
+    "id": 12,
+    "sku": "12sdf1",
+    "name": "Waffle Cotton-Blend Hoodie",
+    "ratings": 4.7,
+    "discount": 67,
+    "discountDuration": "2022-02-18",
+    "badge": "Special",
+    "totalSale": 201,
+    "vendor": "ONE UMMAH",
+    "type": [
+      "specials",
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "winter",
+      "clothing"
+    ],
+    "tags": [
+      "winter",
+      "sweater",
+      "men"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-12.jpg",
+      "/assets/images/product/product-12-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-12.jpg",
+      "/assets/images/product/product-12-02.jpg",
+      "/assets/images/product/product-12-03.jpg",
+      "/assets/images/product/product-12-04.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": null,
+    "price": 199,
+    "stock": 7,
+    "color": {
+      "name": "white",
+      "thumb": "/assets/images/product/product-12.jpg",
+      "code": "#ffffff"
+    },
+    "material": {
+      "name": "Cotton",
+      "slug": "cotton",
+      "thumb": "/assets/images/texture/texture-img-01.jpg"
+    },
+    "size": "free"
+  },
+  {
+    "id": 13,
+    "sku": "13df161",
+    "name": "Saffiano Leather Belt",
+    "ratings": 5,
+    "discount": 19.99,
+    "discountDuration": "2022-02-18",
+    "badge": "Featured",
+    "totalSale": 175,
+    "vendor": "LACOSTE",
+    "type": [
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "accessories"
+    ],
+    "tags": [
+      "shorts",
+      "cool",
+      "nice"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-13.jpg",
+      "/assets/images/product/product-13-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-13.jpg",
+      "/assets/images/product/product-13-02.jpg",
+      "/assets/images/product/product-13-03.jpg",
+      "/assets/images/product/product-13-04.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "White",
+        "color": {
+          "name": "white",
+          "thumb": "/assets/images/product/product-13.jpg",
+          "code": "#E5E2DA"
+        },
+        "materials": [
+          {
+            "name": "Leather",
+            "slug": "leather",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 121
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 10
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Gold",
+        "color": {
+          "name": "gold",
+          "thumb": "/assets/images/product/product-13-03.jpg",
+          "code": "#944830"
+        },
+        "materials": [
+          {
+            "name": "Leather",
+            "slug": "leather",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 121
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 10
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-13-04.jpg",
+          "code": "#666666"
+        },
+        "materials": [
+          {
+            "name": "Leather",
+            "slug": "leather",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 121
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 10
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "sku": "14df161",
+    "name": "Packable Jacket",
+    "ratings": 5,
+    "discount": null,
+    "discountDuration": null,
+    "badge": null,
+    "totalSale": 197,
+    "vendor": "LEVI'S",
+    "type": [
+      "tending",
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "winter"
+    ],
+    "tags": [
+      "shorts",
+      "jacket",
+      "winter"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-14.jpg",
+      "/assets/images/product/product-14-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-14.jpg",
+      "/assets/images/product/product-14-02.jpg",
+      "/assets/images/product/product-14-03.jpg",
+      "/assets/images/product/product-14-04.jpg",
+      "/assets/images/product/product-14-05.jpg",
+      "/assets/images/product/product-14-06.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-14.jpg",
+          "code": "#E3E7EB"
+        },
+        "materials": [
+          {
+            "name": "Cotton",
+            "slug": "cotton",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23
+          },
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-03.jpg",
+            "price": 49.99
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 3
+          },
+          {
+            "name": "m",
+            "stock": 0
+          },
+          {
+            "name": "x",
+            "stock": 5
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Green",
+        "color": {
+          "name": "green",
+          "thumb": "/assets/images/product/product-14-04.jpg",
+          "code": "#D6E4E0"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 11.50
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 12.11
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 6
+          },
+          {
+            "name": "m",
+            "stock": 26
+          },
+          {
+            "name": "XXL",
+            "stock": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "sku": "15df161",
+    "name": "Douglas Calfskin Buckle Belt",
+    "ratings": 0,
+    "discount": null,
+    "discountDuration": null,
+    "badge": null,
+    "totalSale": 197,
+    "vendor": "GAP",
+    "type": [
+      "specials",
+      "featured"
+    ],
+    "categories": [
+      "men",
+      "accessories"
+    ],
+    "tags": [
+      "belt",
+      "men",
+      "leather"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-15.jpg",
+      "/assets/images/product/product-15-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-15.jpg",
+      "/assets/images/product/product-15-02.jpg",
+      "/assets/images/product/product-15-03.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": [
+      {
+        "id": 1,
+        "title": "Chocolate",
+        "color": {
+          "name": "chocolate",
+          "thumb": "/assets/images/product/product-15.jpg",
+          "code": "#B6A5AA"
+        },
+        "materials": [
+          {
+            "name": "Fabrics",
+            "slug": "fabrics",
+            "thumb": "/assets/images/texture/texture-img-01.jpg",
+            "price": 62.12
+          },
+          {
+            "name": "Silk",
+            "slug": "silk",
+            "thumb": "/assets/images/texture/texture-img-02.jpg",
+            "price": 23.43
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 0
+          },
+          {
+            "name": "m",
+            "stock": 6
+          },
+          {
+            "name": "x",
+            "stock": 7
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Black",
+        "color": {
+          "name": "black",
+          "thumb": "/assets/images/product/product-15-03.jpg",
+          "code": "#D6E4E0"
+        },
+        "materials": [
+          {
+            "name": "Nylon",
+            "slug": "nylon",
+            "thumb": "/assets/images/texture/texture-img-04.jpg",
+            "price": 11.50
+          },
+          {
+            "name": "Polyester",
+            "slug": "polyester",
+            "thumb": "/assets/images/texture/texture-img-05.jpg",
+            "price": 12.11
+          }
+        ],
+        "sizes": [
+          {
+            "name": "s",
+            "stock": 6
+          },
+          {
+            "name": "m",
+            "stock": 26
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "sku": "16df161",
+    "name": "Custom Fit Soft-Touch Polo",
+    "ratings": 4,
+    "discount": null,
+    "discountDuration": null,
+    "badge": null,
+    "totalSale": 137,
+    "vendor": "GAP",
+    "type": [
+      "specials",
+      "tending"
+    ],
+    "categories": [
+      "men",
+      "clothing"
+    ],
+    "tags": [
+      "belt",
+      "men",
+      "leather"
+    ],
+    "thumbs": [
+      "/assets/images/product/product-16.jpg",
+      "/assets/images/product/product-16-02.jpg"
+    ],
+    "previewImages": [
+      "/assets/images/product/product-16.jpg",
+      "/assets/images/product/product-16-02.jpg"
+    ],
+    "excerpt": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam.",
+    "description": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum.",
+    "variations": null,
+    "price": 5,
+    "stock": 88,
+    "color": {
+      "name": "white",
+      "thumb": "/assets/images/product/product-16.jpg",
+      "code": "#ffffff"
+    },
+    "material": {
+      "name": "Cotton",
+      "slug": "cotton",
+      "thumb": "/assets/images/texture/texture-img-01.jpg"
+    },
+    "size": "free"
+  }
+]

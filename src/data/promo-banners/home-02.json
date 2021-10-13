@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "NEW IN:",
+    "heading": "CLOTHING",
+    "thumb": "/assets/images/promo/index02-promo-img-02.jpg",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "CLEARANCE SALES",
+    "heading": "GET UP TO <span class=\"tt-base-color\">20% OFF</span>",
+    "thumb": "/assets/images/promo/index02-promo-img-03.jpg",
+    "link": "/"
+  }
+]

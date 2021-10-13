@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@components/*": ["src/components/*"],
+      "@layouts": ["src/layouts"],
+      "@assets/*": ["public/assets/*"],
+      "@data/*": ["src/data/*"],
+      "@global/*": ["src/global/*"],
+      "@hooks": ["src/hooks"],
+      "@utils/*": ["src/utils/*"],
+      "@public/*": ["public/*"]
+    }
+  }
+}
+
+// test

@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "Cookware <br>Appliances",
+    "subTitle": null,
+    "content": "Browse our extensive range in a choice of materials, shapes, sizes and colours to suit your cooking needs.",
+    "btn": true,
+    "bgImage": "/assets/images/skins/cookware/slides/slide-01.jpg",
+    "extraClass": "lft stb tt-bg-01"
+  },
+  {
+    "id": 2,
+    "title": "20% Off<br>Cutlery & Knife",
+    "subTitle": null,
+    "content": "Browse our extensive range in a choice of materials, shapes, sizes and colours to suit your cooking needs.",
+    "btn": true,
+    "bgImage": "/assets/images/skins/cookware/slides/slide-02.jpg",
+    "extraClass": "lft stb tt-bg-02"
+  },
+  {
+    "id": 3,
+    "title": "50% Off<br>Bakeware",
+    "subTitle": null,
+    "content": "Browse our extensive range in a choice of materials, shapes, sizes and colours to suit your cooking needs.",
+    "btn": true,
+    "bgImage": "/assets/images/skins/cookware/slides/slide-03.jpg",
+    "extraClass": "lft stb tt-bg-03"
+  }
+]

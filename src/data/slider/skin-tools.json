@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption-tools-wd01 tt-white-color text-left\">Chainsaws</div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-caption-tools-wd02 tt-white-color text-left\">A mechanical power-driven cutting tool with teeth set on a chain that moves around the edge of a blade.</div>",
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/tools/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-caption-tools-wd01 tt-white-color text-left\">Rotary<br>Hammer Drill</div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-caption-tools-wd02 tt-white-color text-left\">Drilling, hammer drilling &amp; chiseling</div>",
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/tools/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tp-caption-tools-wd01 tt-white-color text-left\">Multi-<br>Cutters</div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-caption-tools-wd02 tt-white-color text-left\">Cuts cardboard, carpet, leather, rubber, vinyl and more</div>",
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/tools/slides/slide-03.jpg"
+  }
+]

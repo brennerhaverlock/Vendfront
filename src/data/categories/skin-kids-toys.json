@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "category": "Action Figures",
+    "thumb": "/assets/images/skins/toys/img-01.png"
+  },
+  {
+    "id": 2,
+    "category": "Arts & Crafts",
+    "thumb": "/assets/images/skins/toys/img-02.png"
+  },
+  {
+    "id": 3,
+    "category": "Dolls & Accessories",
+    "thumb": "/assets/images/skins/toys/img-03.png"
+  },
+  {
+    "id": 4,
+    "category": "Educational Toys",
+    "thumb": "/assets/images/skins/toys/img-04.png"
+  },
+  {
+    "id": 5,
+    "category": "Games",
+    "thumb": "/assets/images/skins/toys/img-05.png"
+  },
+  {
+    "id": 6,
+    "category": "Stuffed Animals",
+    "thumb": "/assets/images/skins/toys/img-06.png"
+  },
+  {
+    "id": 7,
+    "category": "Hobbies",
+    "thumb": "/assets/images/skins/toys/img-07.png"
+  },
+  {
+    "id": 8,
+    "category": "Movies & TV Toys",
+    "thumb": "/assets/images/skins/toys/img-08.png"
+  }
+]

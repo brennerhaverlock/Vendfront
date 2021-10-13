@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "text": "COOKWARE",
+    "link": "/skin/cookware-shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "BAKEWARE",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "DINNERWARE SETS",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "GLASSWARE",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "KITCHEN STORAGE",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 6,
+    "text": "KITCHEN UTENSILS",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 7,
+    "text": "CUTLERY & KNIFE",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 8,
+    "text": "BAR & WINE",
+    "link": "/product/category/cookware",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "FREE SHIPPING",
+    "content": "Free shipping on all US order or order above $99",
+    "iconClass": "icon-f-48"
+  },
+  {
+    "id": 2,
+    "title": "SUPPORT 24/7",
+    "content": "Contact us 24 hours a day, 7 days a week",
+    "iconClass": "icon-f-35"
+  },
+  {
+    "id": 3,
+    "title": "30 DAYS RETURN",
+    "content": "Simply return it within 24 days for an exchange.",
+    "iconClass": "icon-e-09"
+  }
+]

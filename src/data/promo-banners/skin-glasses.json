@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "subtitle": "EYEGLASSES",
+    "title": null,
+    "thumb": "/assets/images/skins/glasses/promo-img-01.jpg",
+    "buttons": [
+      {
+        "text": "Women's",
+        "link": "/product/category/women"
+      },
+      {
+        "text": "Men's",
+        "link": "/product/category/men"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subtitle": "SUNGLASSES",
+    "title": null,
+    "thumb": "/assets/images/skins/glasses/promo-img-02.jpg",
+    "buttons": [
+      {
+        "text": "Women's",
+        "link": "/product/category/women"
+      },
+      {
+        "text": "Men's",
+        "link": "/product/category/men"
+      }
+    ]
+  }
+]

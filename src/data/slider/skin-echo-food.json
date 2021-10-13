@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-food02-wd-2\"><span class=\"tt-base-color02\">Call us: +1-234-567-89-01</span></div>",
+    "subTitle": "<div class=\"tp-food02-wd-1 tt-base-dark-color\">Center for<br>Healthy Nutrition</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass": null,
+    "bgImage": "/assets/images/skins/echo-food/mainpromo-img-01.jpg",
+    "extraClass": "align-items-start"
+  }
+]

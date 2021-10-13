@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Perfect style &amp; Fit",
+    "subtitle": "<span class=\"tt-base-color\">Find Your</span>",
+    "content": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit",
+    "thumb": "/assets/images/skins/lingerie/promo/index-promo-img-03.jpg"
+  },
+  {
+    "id": 2,
+    "title": "GET UP TO 50% OFF",
+    "subtitle": "<span class=\"tt-base-color\">Clearance Sales</span>",
+    "content": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit",
+    "thumb": "/assets/images/skins/lingerie/promo/index-promo-img-04.jpg"
+  }
+]

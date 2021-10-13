@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption1-wd-2 tt-white-color\">Premium<br>React Template</div>",
+    "subTitle": "<div class=\"tp-caption1-wd-1 tt-base-color\">Multipurpose</div>",
+    "content": "<p class=\"tp-caption1-wd-3 tt-white-color\">30 skins, powerful features, great support, exclusive offer</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/17/slide-01.jpg",
+    "extraClass": ""
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-caption1-wd-2 tt-white-color\">CLEARANCE<br>SALES</div>",
+    "subTitle": "<div class=\"tp-caption1-wd-1 tt-white-color\">FALL-WINTER</div>",
+    "content": "<div class=\"tp-caption1-wd-3 tt-white-color\">All Sale Items are Final Sale / Free Shipping on All Orders</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/17/slide-02.jpg",
+    "extraClass": ""
+  }
+]

@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "thumb": "/assets/images/lookbook/lookbook-10.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Denim Boyfriend Trucker Jacket",
+        "price": 20,
+        "thumb": "/assets/images/product/product-01.jpg",
+        "position": {
+          "top": "79%",
+          "left": "37%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "thumb": "/assets/images/lookbook/lookbook-11.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Relaxed Painted Oxford Shirt",
+        "price": 13,
+        "thumb": "/assets/images/product/product-01.jpg",
+        "position": {
+          "top": "22%",
+          "left": "49%"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Premier Cropped Skinny Jean",
+        "price": 16,
+        "thumb": "/assets/images/product/product-02.jpg",
+        "position": {
+          "top": "55%",
+          "left": "34%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "thumb": "/assets/images/lookbook/lookbook-12.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Relaxed-Fit Cotton Shirt",
+        "price": 9,
+        "thumb": "/assets/images/product/product-05.jpg",
+        "position": {
+          "top": "40%",
+          "left": "40%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "thumb": "/assets/images/lookbook/lookbook-13.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Premier Cropped Skinny Jean",
+        "price": 29,
+        "thumb": "/assets/images/product/product-05-02.jpg",
+        "position": {
+          "top": "40%",
+          "left": "40%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "thumb": "/assets/images/lookbook/lookbook-14.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Raxon Chambray Low-Top Sneaker",
+        "price": 29,
+        "thumb": "/assets/images/product/product-07.jpg",
+        "position": {
+          "top": "60%",
+          "left": "13%"
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "thumb": "/assets/images/lookbook/lookbook-15.jpg",
+    "products": [
+      {
+        "id": 1,
+        "name": "Premier Cropped Skinny Jean",
+        "price": 29,
+        "thumb": "/assets/images/product/product-06.jpg",
+        "position": {
+          "top": "37%",
+          "left": "47%"
+        }
+      }
+    ]
+  }
+]

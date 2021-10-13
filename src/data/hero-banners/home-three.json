@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "<div class=\"tt-title-large\">FIND PRODUCTS<br> FOR STORE</div>",
+  "subTitle": "<div class=\"tt-title-small\">OBERLO</div>",
+  "content": "<p>Oberlo allows you to easily import dropshipped products directly into your ecommerce store</p>",
+  "btnText": "SHOP NOW!",
+  "btnLink": "/shop",
+  "bgImage": "/assets/images/slides/03/01.jpg"
+}

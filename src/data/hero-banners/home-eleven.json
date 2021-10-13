@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tt-title-large\">Premium<br> Html Template</div>",
+    "subTitle": "<div class=\"tt-title-small\"><span class=\"tt-base-color\">Multipurpose</span></div>",
+    "content": "<p>30 skins, powerful features, great support, exclusive offer</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/promo/index11-promo-img-01.jpg",
+    "extraClass": "tt-point-h-r"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tt-title-large\"><span class=\"tt-white-color\">Use Unique <br>Demos</span></div>",
+    "subTitle": "<div class=\"tt-title-small\"><span class=\"tt-white-color\">Ready To</span></div>",
+    "content": "<p>Optimized for speed, website that sells</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/promo/index11-promo-img-02.jpg",
+    "extraClass": "tt-point-h-l"
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tt-title-large\"><span class=\"tt-white-color\">Find Products for<br>Shop Store</span></div>",
+    "subTitle": "<div class=\"tt-title-small\"><span class=\"tt-base-color\">Oberlo </span></div>",
+    "content": "<p><span class=\"tt-white-color\">Oberlo allows you to easily import dropshipped products directly into your ecommerce store</span></p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/promo/index11-promo-img-03.jpg",
+    "extraClass": ""
+  }
+]

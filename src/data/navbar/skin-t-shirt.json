@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "text": "Men",
+    "link": "/product/category/men",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Women",
+    "link": "/product/category/women",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "New Arrivals",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Clearance",
+    "link": "/product/category/clearance",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 5,
+    "text": "Journal",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "SALE",
+    "thumb": "/assets/images/promo/index-promo-img-01.jpg"
+  },
+  {
+    "id": 2,
+    "name": "NEW",
+    "thumb": "/assets/images/promo/index-promo-img-02.jpg"
+  },
+  {
+    "id": 3,
+    "name": "WOMEN",
+    "thumb": "/assets/images/promo/index-promo-img-03.jpg"
+  },
+  {
+    "id": 4,
+    "name": "MEN",
+    "thumb": "/assets/images/promo/index-promo-img-04.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ACCESSORIES",
+    "thumb": "/assets/images/promo/index-promo-img-05.jpg"
+  },
+  {
+    "id": 6,
+    "name": "SHOES",
+    "thumb": "/assets/images/promo/index-promo-img-06.jpg"
+  }
+]

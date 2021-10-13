@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "logo": "/assets/images/brand/brand-img-01.png",
+    "thumb": "/assets/images/promo/index06-promo-img-06.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 2,
+    "logo": "/assets/images/brand/brand-img-02.png",
+    "thumb": "/assets/images/promo/index06-promo-img-05.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 3,
+    "logo": "/assets/images/brand/brand-img-03.png",
+    "thumb": "/assets/images/promo/index06-promo-img-11.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 4,
+    "logo": "/assets/images/brand/brand-img-04.png",
+    "thumb": "/assets/images/promo/index06-promo-img-09.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 5,
+    "logo": "/assets/images/brand/brand-img-05.png",
+    "thumb": "/assets/images/promo/index06-promo-img-08.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 6,
+    "logo": "/assets/images/brand/brand-img-06.png",
+    "thumb": "/assets/images/promo/index06-promo-img-10.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 7,
+    "logo": "/assets/images/brand/brand-img-07.png",
+    "thumb": "/assets/images/promo/index06-promo-img-12.jpg",
+    "link": "/shop"
+  },
+  {
+    "id": 8,
+    "logo": "/assets/images/brand/brand-img-08.png",
+    "thumb": "/assets/images/promo/index06-promo-img-07.jpg",
+    "link": "/shop"
+  }
+]

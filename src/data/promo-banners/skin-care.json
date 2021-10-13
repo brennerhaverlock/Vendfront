@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "subtitle": "Best Seller",
+    "title": "UC Moist CC Cream",
+    "thumb": "/assets/images/skins/care/promo-img-01.jpg",
+    "btn": true,
+    "btnText": "Discover now →",
+    "btnLink": "/shop",
+    "btnClass": "d-inline-block"
+  },
+  {
+    "id": 2,
+    "subtitle": "<span class=\"tt-white-color\">Best Seller</span>",
+    "title": "<span class=\"tt-white-color\">Gift Box a Set</span>",
+    "thumb": "/assets/images/skins/care/promo-img-02.jpg",
+    "btn": true,
+    "btnText": "Discover now →",
+    "btnLink": "/shop",
+    "btnClass": "d-inline-block tt-white-color"
+  }
+]

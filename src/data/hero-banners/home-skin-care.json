@@ -1,0 +1,13 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-care-wd-2 tt-base-color\">A Blessing of Water<br>for Every Skin</div>",
+    "subTitle": "<div class=\"tp-care-wd-1\">It's made in Japan</div>",
+    "content": "",
+    "btnText": "Discover Now →",
+    "btnLink": "/shop",
+    "btnClass": "mt-0",
+    "bgImage": "/assets/images/skins/care/slides/slide-01.jpg",
+    "extraClass": "tt-point-h-l"
+  }
+]

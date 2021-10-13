@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-clothes-wd02 text-left\">Crepe Shirtdress</div>",
+    "subTitle": "<div class=\"tp-clothes-wd01 text-left\">Spring Layers to Wear Now</div>",
+    "content": null,
+    "btnText": "Discover Now",
+    "btnLink": "/product/category/clothes",
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/clothes/slides/img-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-clothes-wd02 text-left\">Crepe Shirtdress</div>",
+    "subTitle": "<div class=\"tp-clothes-wd01 text-left\">Windbreaker Jacket</div>",
+    "content": null,
+    "btnText": "Discover Now",
+    "btnLink": "/product/category/clothes",
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/clothes/slides/img-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tp-clothes-wd02 text-left\">Crochet-Stripe Dress</div>",
+    "subTitle": "<div class=\"tp-clothes-wd01 text-left\">Spring Layers to Wear Now</div>",
+    "content": null,
+    "btnText": "Discover Now",
+    "btnLink": "/product/category/clothes",
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/clothes/slides/img-03.jpg"
+  }
+]

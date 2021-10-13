@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "<span class=\"tt-white-color\">Next-level storage solutions</span>",
+    "heading": "<span class=\"tt-white-color\">OPTIMUM ORGANISATION</span>",
+    "thumb": "/assets/images/skins/cookware/index-promo-img-01.jpg",
+    "link": "/product/category/cookware",
+    "bgClass": "tt-background-02"
+  },
+  {
+    "id": 2,
+    "title": "New arrival",
+    "heading": "<span class=\"tt-base-color\">SHOP CUTLERY &amp; TOOLS</span>",
+    "thumb": "/assets/images/skins/cookware/index-promo-img-02.jpg",
+    "link": "/product/category/cookware",
+    "bgClass": ""
+  },
+  {
+    "id": 3,
+    "title": "A good chef never blames his utensils",
+    "heading": "<span class=\"tt-base-color\">KITCHEN UTENSIL SETS</span>",
+    "thumb": "/assets/images/skins/cookware/index-promo-img-03.jpg",
+    "link": "/product/category/cookware",
+    "bgClass": ""
+  },
+  {
+    "id": 4,
+    "title": "<span class=\"tt-white-color\">Enjoy consistent results every time you bake</span>",
+    "heading": "<span class=\"tt-white-color\">BAKEWARE</span>",
+    "thumb": "/assets/images/skins/cookware/index-promo-img-04.jpg",
+    "link": "/product/category/cookware",
+    "bgClass": "tt-background-02"
+  }
+]

@@ -1,0 +1,21 @@
+// Modify Grid Breakpoints
+$grid-breakpoints: (
+        xs: 0,
+        sm: 576px,
+        md: 791px,
+        lg: 1025px,
+        xl: 1230px
+) !default;
+
+// Modify Container Max Width
+$container-max-widths: (
+        sm: 546px,
+        md: 770px,
+        lg: 990px,
+        xl: 1200px
+) !default;
+
+// Modify Grid Gutter
+$grid-gutter-width: 20px !default;
+
+@import "~bootstrap/scss/bootstrap";

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "text": "OUR MENU",
+    "link": "/shop",
+    "submenu": [
+      {
+        "id": 1.1,
+        "title": "MENUS LISTING",
+        "lists": [
+          {
+            "text": "BURGERS",
+            "link": "/product/category/burgers",
+            "badge": null
+          },
+          {
+            "text": "SALADS",
+            "link": "/product/category/salads",
+            "badge": null
+          },
+          {
+            "text": "SNACKS",
+            "link": "/product/category/snacks",
+            "badge": null
+          },
+          {
+            "text": "SOUPS",
+            "link": "/product/category/soups",
+            "badge": null
+          },
+          {
+            "text": "SAUCES",
+            "link": "/product/category/sauces",
+            "badge": null
+          },
+          {
+            "text": "BEVERAGES",
+            "link": "/product/category/beverages",
+            "badge": null
+          }
+        ]
+      }
+    ],
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "ABOUT US",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "SHIPPING AREA",
+    "link": "/faq",
+    "submenu": null,
+    "mega_menu": false
+  }
+]

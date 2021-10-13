@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-gothic-wd-2 tt-base-color\">Get up to<br> 50% Off</div>",
+    "subTitle": "<div class=\"tp-gothic-wd-1 tt-white-color\">Limited-time only</div>",
+    "content": null,
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "btnClass": null,
+    "bgImage": "/assets/images/skins/gothic/slides/slide-01.jpg"
+  }
+]

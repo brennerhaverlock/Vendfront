@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption2-wd-2 tt-white-color\">Use Unique<br>Demos</div>",
+    "subTitle": "<div class=\"tp-caption2-wd-1 tt-white-color\">Ready To</div>",
+    "content": "<div class=\"tp-caption2-wd-3 text-dark\">Optimized for speed, website that sells</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/16/slide-01.jpg",
+    "extraClass": ""
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-caption2-wd-2 tt-white-color\">Premium<br>React Template</div>",
+    "subTitle": "<div class=\"tp-caption2-wd-1 tt-white-color\"><span class=\"tt-base-color\">Multipurpose</span></div>",
+    "content": "<div class=\"tp-caption2-wd-3 tt-white-color\">30 skins, powerful features, great support, exclusive offer</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/16/slide-02.jpg",
+    "extraClass": ""
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tp-caption2-wd-2 tt-white-color\">Find Products for<br>Shop Store</div>",
+    "subTitle": "<div class=\"tp-caption2-wd-1 tt-base-color\"><span class=\"tt-base-color\">Oberlo</span></div>",
+    "content": "<div class=\"tp-caption2-wd-3 tt-white-color\">Oberlo allows you to easily import dropshipped products directly into your ecommerce store</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/16/slide-03.jpg",
+    "extraClass": ""
+  }
+]

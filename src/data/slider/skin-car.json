@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption4-wd-2 tt-white-color text-left\">SELECT YOUR<br>VEHICLE</div>",
+    "subTitle": "<div class=\"tp-caption4-wd-1 tt-white-color text-left\">CUSTOMIZE, MODIFY, UPGRADE, REPAIR, REPLACE</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/car/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-caption4-wd-2 tt-white-color text-left\">POWER<br>ADDERS</div>",
+    "subTitle": "<div class=\"tp-caption4-wd-1 tt-white-color text-left\">TURBO &amp; SUPERCHARGERS</div>",
+    "content":null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/car/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "<div class='tp-caption4-wd-2 tt-white-color text-left'>INTERIOR<br>ACCESSORIES</div>",
+    "subTitle": "<div class='tp-caption4-wd-1 tt-white-color text-left'>NEW ARRIVALS</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/car/slides/slide-03.jpg"
+  }
+]

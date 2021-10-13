@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "text": "Flowers",
+    "link": "/skin/flower-shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Cupcakes & Cakes",
+    "link": "/product/category/flower",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "Designer Gifts",
+    "link": "/product/category/flower",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Most Popular",
+    "link": "/product/category/flower",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "Delivery",
+    "link": "/product/category/flower",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "<div class='tp-caption1-wd-2 tt-white-color'>Use Unique <br/> Demos</div>",
+    "subTitle": "<span class='tp-caption1-wd-1 tt-white-color'>Ready to</span>",
+    "content": "<p class='tp-caption1-wd-3 tt-white-color'>Optimized for speed, website that sells</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/",
+    "bgImage": "/assets/images/slides/06/slide-01.jpg",
+    "extraClass": "slide-content-right"
+  },
+  {
+    "id": 2,
+    "title": "<div class='tp-caption1-wd-2 tt-base-dark-color' data-swiper-parallax='-100px'>Premium <br/> React Template</div>",
+    "subTitle": "<span class='tp-caption1-wd-1 tt-base-color'>Multipurpose</span>",
+    "content": "<p class='tp-caption1-wd-3'>30 skins, powerful features, great support, exclusive offer</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/",
+    "bgImage": "/assets/images/slides/01/slide-01.jpg",
+    "extraClass": ""
+  }
+]

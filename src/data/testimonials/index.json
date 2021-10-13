@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "quote": "Lorem ipsum dolor sit amet conse ctetur adipisicing elit",
+    "client": "ADRIAN PARKER",
+    "designation": "Developer"
+  },
+  {
+    "id": 2,
+    "quote": "Conse ctetur adipisicing elit, sed do eiusmod tempor incididunt",
+    "client": "PARKER ADRIAN",
+    "designation": "Devs Pro"
+  }
+]

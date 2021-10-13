@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "subtitle": "Find the best iPhone for you!",
+    "title": "Compare iPhone models.",
+    "thumb": "/assets/images/skins/phones/promo/index-promo-img-03.jpg"
+  },
+  {
+    "id": 2,
+    "subtitle": "<span class=\"tt-white-color\">Wireless. Effortless. Magical.</span>",
+    "title": "<span class=\"tt-white-color\">AirPods</span>.",
+    "thumb": "/assets/images/skins/phones/promo/index-promo-img-04.jpg"
+  },
+  {
+    "id": 3,
+    "subtitle": "A beautiful mind.",
+    "title": "iPhone 8.",
+    "thumb": "/assets/images/skins/phones/promo/index-promo-img-05.jpg"
+  },
+  {
+    "id": 4,
+    "subtitle": "Trade-In your phone for up to $300 for",
+    "title": "a New Galaxy S9.",
+    "thumb": "/assets/images/skins/phones/promo/index-promo-img-06.jpg"
+  }
+]

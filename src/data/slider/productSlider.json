@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "bgImage": "/assets/images/skins/coffee/coffee-02.jpg",
+    "title": "<span class=\"tt-base-color\">Lavazza 100% Arabica coffee beans</span>",
+    "content": "Lavazza 100% Arabica coffee beans is a blend of beans with the highest quality. The beans has been carefully selected and evenly roasted to produce a coffee with a smooth flavor and a tempting aroma."
+  },
+  {
+    "id": 2,
+    "bgImage": "/assets/images/skins/coffee/coffee-03.jpg",
+    "title": "<span class=\"tt-base-color\">Coffee beans Lavazza Crema e-Aroma</span>",
+    "content": "Lavazza 100% Arabica coffee beans is a blend of beans with the highest quality. The beans has been carefully selected and evenly roasted to produce a coffee with a smooth flavor and a tempting aroma."
+  }
+]

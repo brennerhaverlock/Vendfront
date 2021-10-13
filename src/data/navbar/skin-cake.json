@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "link": "/skin/cake-shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Cakes",
+    "link": "/product/category/cakes",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "Pastries",
+    "link": "/",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "About",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "Contact",
+    "link": "/contact",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

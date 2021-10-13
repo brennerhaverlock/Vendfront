@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption1-wd-2 tt-white-color\">Find Products for<br>Shop Store</div>",
+    "subTitle": "<div class=\"tp-caption1-wd-1 tt-base-color\">Oberlo</div>",
+    "content": "<p class=\"tt-white-color\">Oberlo allows you to easily import drop shipped products directly into your ecommerce store</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/slides/08/slide-01.jpg",
+    "extraClass": ""
+  },
+  {
+    "id": 2,
+    "title": "<div class='tp-caption1-wd-2 tt-white-color'>Use Unique <br/> Demos</div>",
+    "subTitle": "<span class='tp-caption1-wd-1 tt-white-color'>Ready to</span>",
+    "content": "<p class='tp-caption1-wd-3 tt-white-color'>Optimized for speed, website that sells</p>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/",
+    "bgImage": "/assets/images/slides/08/slide-02.jpg",
+    "extraClass": ""
+  }
+]

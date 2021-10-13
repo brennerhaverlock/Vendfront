@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "text": "Shop",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "About Us",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "Contact Us",
+    "link": "/contact",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Faqs",
+    "link": "/faq",
+    "submenu": null,
+    "mega_menu": false
+  }
+]

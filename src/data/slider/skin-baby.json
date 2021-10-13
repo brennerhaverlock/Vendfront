@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-baby-wd-1\"><span class=\"tt-white-color\">Safe baby products<br> that actually work</span></div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-baby-wd-2\"><span class=\"tt-white-color\">A great about us block helps builds trust between you and your customers. The more content you provide about you and your business, the more confident people will be when purchasing from your store.</span></div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/shop",
+    "bgImage": "/assets/images/skins/baby/slides/slide-01.jpg",
+    "extraClass": ""
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-baby-wd-1\">Baby-safe household products</div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-baby-wd-2\">A great about us block helps builds trust between you and your customers. The more content you provide about you and your business, the more confident people will be when purchasing from your store.</div>",
+    "btnText": "SHOP NOW!",
+    "btnLink": "/",
+    "bgImage": "/assets/images/skins/baby/slides/slide-02.jpg",
+    "extraClass": ""
+  }
+]

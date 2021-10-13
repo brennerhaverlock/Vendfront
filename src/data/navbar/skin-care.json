@@ -1,0 +1,33 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "link": "/skin/care-shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Shop",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "About",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Contact",
+    "link": "/contact",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

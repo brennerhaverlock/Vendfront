@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "text": "Personal Care",
+    "link": "/",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Diapers",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "Wipes",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Cleaning",
+    "link": "/",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "Laundry",
+    "link": "/",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 6,
+    "text": "Feeding",
+    "link": "/contact",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

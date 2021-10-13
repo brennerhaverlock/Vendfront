@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "subTitle": "Special Event",
+    "title": "Save up to $300 on select Cameras",
+    "content": "Minimum savings is $10",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img01.jpg",
+    "btnText": "Shop the photography deals ›",
+    "btnLink": "/shop"
+  },
+  {
+    "id": 2,
+    "subTitle": "Special Event",
+    "title": "Ultimate sound and savings",
+    "content": "Great deals on speakers for your home, car and more, now through April 6",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img02.jpg",
+    "btnText": "Shop Audiofest ›",
+    "btnLink": "/shop"
+  },
+  {
+    "id": 3,
+    "subTitle": "Special Event",
+    "title": "Deal of the Day",
+    "content": "Great deals. Every day",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img03.jpg",
+    "btnText": "Don't miss out ›",
+    "btnLink": "/shop"
+  },
+  {
+    "id": 4,
+    "subTitle": "Special Event",
+    "title": "Save up to 30% on Appliance Top Deals",
+    "content": "Minimum savings is 5%",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img05.jpg",
+    "btnText": "Shop appliance Top Deals ›",
+    "btnLink": "/shop"
+  },
+  {
+    "id": 5,
+    "subTitle": "Special Event",
+    "title": "Top TVs under $500",
+    "content": "Best televisions for less than $500",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img04.jpg",
+    "btnText": "Shop top TV deals ›",
+    "btnLink": "/shop"
+  },
+  {
+    "id": 6,
+    "subTitle": "Special Event",
+    "title": "Save up to $150 on select Chromebooks",
+    "content": "Minimum savings is $20",
+    "thumb": "/assets/images/skins/electronics/promo/promo-img06.jpg",
+    "btnText": "Shop these Chromebooks ›",
+    "btnLink": "/shop"
+  }
+]

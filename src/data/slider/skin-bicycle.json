@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-bicycle-wd-1 text-left tt-white-color\">CUSTOMIZE, MODIFY, UPGRADE, REPAIR, REPLACE</div>",
+    "subTitle": "<div class=\"tp-bicycle-wd-2 text-left tt-white-color\">SELECT YOUR<br>VEHICLE</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/bicycle/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-bicycle-wd-1 tt-white-color text-left\">NEW ARRIVALS</div>",
+    "subTitle": "<div class=\"tp-bicycle-wd-2 text-left tt-white-color\">NEW bike<br>FOR 2020!</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/bicycle/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tp-bicycle-wd-1 tt-base-color03 text-left tt-white-color\">Mountain Bikes</div>",
+    "subTitle": "<div class=\"tp-bicycle-wd-2 text-left tt-white-color\">Get up to<br>20% off!</div>",
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/bicycle/slides/slide-03.jpg"
+  }
+]

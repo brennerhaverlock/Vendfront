@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "subTitle": null,
+    "title": "<div class=\"tp-toys-wd-1 tt-white-color\">Toy of the Year<br>2019 Finalists</div>",
+    "content": null,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white",
+    "bgImage": "/assets/images/skins/toys/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "subTitle": null,
+    "title": "<div class=\"tp-toys-wd-1 tt-white-color\">Barbies<br>Fashionistas</div>",
+    "content": null,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white",
+    "bgImage": "/assets/images/skins/toys/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "subTitle": null,
+    "title": "<div class=\"tp-toys-wd-1 tt-white-color\">Building Toys<br>Get Up 20% Off</div>",
+    "content": null,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white",
+    "bgImage": "/assets/images/skins/toys/slides/slide-03.jpg"
+  }
+]

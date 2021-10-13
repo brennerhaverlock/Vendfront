@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-glasses-wd-2 tt-base-dark-color\">SALES<br>70% OFF</div>",
+    "subTitle": "<div class=\"tp-glasses-wd-1 tt-base-color\">MEN’S GLASSES</div>",
+    "content": "<div class=\"tp-glasses-wd-3\">Last chance to take advantage of our discounts!</div>",
+    "btnText": "Shop Now!",
+    "btnLink": "/shop",
+    "btnClass":  null,
+    "bgImage": "/assets/images/skins/glasses/slides/slide-01.jpg"
+  }
+]

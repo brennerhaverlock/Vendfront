@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "iconClass": "icon-f-94",
+    "text": "Account",
+    "link": "/account/register"
+  },
+  {
+    "id": 2,
+    "iconClass": "icon-f-39",
+    "text": "Cart",
+    "link": "/cart"
+  },
+  {
+    "id": 3,
+    "iconClass": "icon-n-072",
+    "text": "Wishlist",
+    "link": "/wishlist"
+  },
+  {
+    "id": 4,
+    "iconClass": "icon-n-08",
+    "text": "Compare",
+    "link": "/compare"
+  },
+  {
+    "id": 5,
+    "iconClass": "icon-f-76",
+    "text": "Log In",
+    "link": "/account/login"
+  },
+  {
+    "id": 6,
+    "iconClass": "icon-f-94",
+    "text": "Register",
+    "link": "/account/register"
+  }
+]

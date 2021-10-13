@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-tea-wd-1\">We're Excited to<br>Offer the Finest Tea</div>",
+    "subTitle": null,
+    "content": null,
+    "btnText": "Discover Now →",
+    "btnLink": "/product/category/tea",
+    "btnClass": "link-nav",
+    "bgImage": "/assets/images/skins/tea/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "<div class=\"tp-tea-wd-1\">We offer many products that will<br> complement your experience</div>",
+    "subTitle": null,
+    "content": null,
+    "btnText": "Discover Now →",
+    "btnLink": "/product/category/tea",
+    "btnClass":  "link-nav",
+    "bgImage": "/assets/images/skins/tea/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "<div class=\"tp-tea-wd-1\">Tea brewing supplies, cups,<br> mugs, and full services.</div>",
+    "subTitle": null,
+    "content": null,
+    "btnText": "Discover Now →",
+    "btnLink": "/product/category/tea",
+    "btnClass":  "link-nav",
+    "bgImage": "/assets/images/skins/tea/slides/slide-03.jpg"
+  }
+]

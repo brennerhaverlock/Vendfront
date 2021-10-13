@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "subtitle": "New Arrivals",
+    "title": "Clothes Collection 2020/21",
+    "thumb": "/assets/images/promo/index19-promo-img-01.jpg",
+    "buttons": [
+      {
+        "text": "SHOP WOMEN",
+        "link": "/product/category/women"
+      },
+      {
+        "text": "SHOP MEN",
+        "link": "/product/category/men"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "subtitle": "The Accessory Update",
+    "title": "Accessories 2020/21",
+    "thumb": "/assets/images/promo/index19-promo-img-02.jpg",
+    "buttons": [
+      {
+        "text": "SHOP ACCESSORIES",
+        "link": "/product/category/accessories"
+      },
+      {
+        "text": "SHOP SHOES",
+        "link": "/product/category/shoe"
+      }
+    ]
+  }
+]

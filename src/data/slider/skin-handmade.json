@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": null,
+    "subTitle": null,
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "bgImage": "/assets/images/skins/handmade/slides/slide-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": null,
+    "subTitle": null,
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "bgImage": "/assets/images/skins/handmade/slides/slide-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": null,
+    "subTitle": null,
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "bgImage": "/assets/images/skins/handmade/slides/slide-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": null,
+    "subTitle": null,
+    "content": null,
+    "btnText": null,
+    "btnLink": null,
+    "bgImage": "/assets/images/skins/handmade/slides/slide-04.jpg"
+  }
+]

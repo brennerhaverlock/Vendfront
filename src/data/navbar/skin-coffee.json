@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "link": "/skin/coffee",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Espresso Machines",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "Coffee",
+    "link": "/product/category/coffee",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Coffee Grinders",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "Accessories",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

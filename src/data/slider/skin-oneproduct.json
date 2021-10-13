@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "title": "<div class=\"tp-caption5-wd-1 tt-dark-color text-left\">Electric Scooter</div>",
+    "subTitle": null,
+    "content": "<div class=\"tp-caption5-wd-2 tt-dark-color text-left\">Take the journey further</div>",
+    "btnText": "BUY NOW!",
+    "btnLink": "/shop",
+    "btnClass": "btn-dark",
+    "bgImage": "/assets/images/skins/oneproduct/slides/slide-01.jpg"
+  }
+]

@@ -1,0 +1,138 @@
+/*===========================================
+    ********* Table of Contents *********
+============================================*/
+/*------------------------------------
+0. Load Google Fonts
+1. External module
+	1.1 Bootstrap
+	1.2 Slider Slick
+	1.3 React Lightgallery
+2. Fonts icons
+3. header
+4. Footer
+5. Blog pages
+6. Portfolio pages
+7. Product single pages
+8. Modal
+9. Listing product
+10. Product item
+11. Promo box
+12. Promo box fixed
+13. Shopping Cart pages
+14. Lookbook module
+15. Hero Slider
+16. Slider Slick
+17. Loader module
+18. Boxed module
+19. Instafeed module
+20. The same product height
+21. Tooltip
+22. Wishlist page
+23. Compare page
+24. Menu categories
+25. Instagram shop
+26. Typography
+------------------------------------*/
+
+/*=============================
+    0. Google Fonts
+=============================*/
+// Font Family: Hind
+@import url('https://fonts.googleapis.com/css?family=Hind:300,400,500,600&display=swap');
+// Font Family: Cantata One Display
+@import url('https://fonts.googleapis.com/css2?family=Cantata+One&display=swap');
+// Font Family: Roboto & Roboto Slab
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600&family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
+
+// ALL SCSS VARIABLES
+@import "variables";
+
+/*=============================
+    1. External module
+=============================*/
+// 1.1 Bootstrap
+@import "bootstrap";
+// 1.2 Slick Slider
+@import "~slick-carousel/slick/slick";
+// 1.3 Lightgallery
+@import "~lightgallery.js/dist/css/lightgallery.css";
+// 2. Fonts icons
+@import "../font/style";
+@import "external_module";
+
+/*===============================================================================================
+Individual Home Skins Style Import
+For the best performance remove all skins style without the style of your selected skin
+**** {Highly Recommended}
+===================================================================================================*/
+
+// Home Skin Baby
+@import "skins/style-skin-baby";
+// Home Skin Books
+@import "skins/style-skin-books";
+// Home Skin Books 2
+@import "skins/style-skin-books02";
+// Home Skin Care
+@import "skins/style-skin-care";
+// Home Skin Cake Shop
+@import "skins/style-skin-cakes";
+// Home Skin Coffee
+@import "skins/style-skin-coffee";
+// Home Skin Comic Books
+@import "skins/style-skin-comic-books";
+// Home Skin Cookware
+@import "skins/style-skin-cookware";
+// Home Skin Flowers
+@import "skins/style-skin-flowers";
+// Home Skin Food
+@import "skins/style-skin-food";
+// Home Skin Furniture
+@import "skins/style-skin-furniture";
+// Home Skin Handmade
+@import "skins/style-skin-handmade";
+// Home Skin OneProduct
+@import "skins/style-skin-oneproducts";
+// Home Skin T-Shirt
+@import "skins/style-skin-t-shirts";
+// Home Skin Tea
+@import "skins/style-skin-tea";
+// Home Skin Tools
+@import "skins/style-skin-tools";
+// Home Skin Wallets
+@import "skins/style-skin-wallets";
+// Home Skin Watches
+@import "skins/style-skin-watches";
+// Home Skin Bicycle
+@import "skins/style-skin-bicycle";
+// Home Skin Bikes
+@import "skins/style-skin-bikes";
+// Home Skin Car Shop
+@import "skins/style-skin-carsshop";
+// Home Skin Clothes Shop
+@import "skins/style-skin-clothes";
+// Home Skin Cosmetics Shop
+@import "skins/style-skin-cosmetics";
+// Home Skin Echo Food Shop
+@import "skins/style-skin-echo-food";
+// Home Skin Electronics Shop
+@import "skins/style-skin-electronics";
+// Home Skin Glasses Shop
+@import "skins/style-skin-glasses";
+// Home Skin Gothic Shop
+@import "skins/style-skin-gothic";
+// Home Skin jewelry Shop
+@import "skins/style-skin-jewerly";
+// Home Skin kids clothes Shop
+@import "skins/style-skin-kids-clothes";
+// Home Skin kids toys Shop
+@import "skins/style-skin-toys";
+// Home Skin Lingerie Shop
+@import "skins/style-skin-lingerie";
+// Home Skin Medical Shop
+@import "skins/style-skin-medical";
+// Home Skin Phones Shop
+@import "skins/style-skin-phones";
+// Home Skin Phone Cases Shop
+@import "skins/style-skin-phone-cases";
+// Home Skin Snowboards Shop
+@import "skins/style-skin-snowboards";

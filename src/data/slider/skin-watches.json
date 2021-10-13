@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "subTitle": "<div class=\"tp-watches-wd-1 tt-base-color\">Since1929</div>",
+    "title": "<div class=\"tp-watches-wd-2\">Swiss Made</div>",
+    "content": null,
+    "btnText": "Discover Now →",
+    "btnLink": "/product/category/watches",
+    "btnClass": "link-nav",
+    "bgImage": "/assets/images/skins/watches/slides/slide-01.jpg"
+  }
+]

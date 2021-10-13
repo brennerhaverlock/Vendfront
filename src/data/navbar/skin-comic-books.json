@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "text": "Home",
+    "link": "/skin/comic-books-shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 2,
+    "text": "Comic Books",
+    "link": "/product/category/comic-books",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 3,
+    "text": "About",
+    "link": "/about",
+    "submenu": null,
+    "mega_menu": false
+  },
+  {
+    "id": 4,
+    "text": "Faq",
+    "link": "/faq",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  },
+  {
+    "id": 5,
+    "text": "Delivery",
+    "link": "/",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": false
+  }
+]

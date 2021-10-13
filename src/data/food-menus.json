@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "title": "Weight Loss",
+    "content": "A delicious and easy way to join a healthy diet and control your weight and well-being.",
+    "thumb": "/assets/images/skins/echo-food/promo-img-01.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Balanced Diet",
+    "content": "Tasty and easy way to join a healthy diet, control your weight and health.",
+    "thumb": "/assets/images/skins/echo-food/promo-img-02.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Sports Nutrition",
+    "content": "Active growth of muscle mass, relief formation, drying - choose your own mode.",
+    "thumb": "/assets/images/skins/echo-food/promo-img-03.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Food for Moms",
+    "content": "Nutrition program for women in position and breastfed women.",
+    "thumb": "/assets/images/skins/echo-food/promo-img-04.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Eco-Life",
+    "content": "Juices and smoothies, fruits and vegetables - all for a comfortable and tasty cleansing of the body (detox).",
+    "thumb": "/assets/images/skins/echo-food/promo-img-05.jpg"
+  },
+  {
+    "id": 6,
+    "title": "Without Meat",
+    "content": "Weight loss programs without animal products.",
+    "thumb": "/assets/images/skins/echo-food/promo-img-06.jpg"
+  }
+]

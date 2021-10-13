@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "subtitle": "NEW COLLECTION",
+    "title": "Best Sellers from <span class=\"tt-base-color\">$4.99</span>",
+    "thumb": "/assets/images/skins/kids/promo/promo-img01.jpg",
+    "btn": true,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white"
+  },
+  {
+    "id": 2,
+    "subtitle": "TREND ARRIVALS",
+    "title": "Jacket from <span class=\"tt-base-color\">$4.99</span>",
+    "thumb": "/assets/images/skins/kids/promo/promo-img02.jpg",
+    "btn": true,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white"
+  },
+  {
+    "id": 3,
+    "subtitle": "ALL ABOARD!",
+    "title": "<span class=\"tt-color-white\">Denim from</span> <span class=\"tt-base-color\">$9.99</span>",
+    "thumb": "/assets/images/skins/kids/promo/promo-img03.jpg",
+    "btn": true,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white"
+  },
+  {
+    "id": 4,
+    "subtitle": "LAST CHANCE",
+    "title": "Clothing from <span class=\"tt-base-color\">$2.99</span>",
+    "thumb": "/assets/images/skins/kids/promo/promo-img04.jpg",
+    "btn": true,
+    "btnText": "Discover Now!",
+    "btnLink": "/shop",
+    "btnClass": "btn-white"
+  }
+]

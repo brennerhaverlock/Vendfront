@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "link": "/",
+    "title": "NEW IN:",
+    "heading": "CLOTHING",
+    "thumb": "/assets/images/skins/snowboards/promo/index-promo-img-09.jpg"
+  },
+  {
+    "id": 2,
+    "link": "/",
+    "title": "FALL-SUMMER CLEARANCE SALES",
+    "heading": "GET UP TO <span class=\"tt-light-green-color\">50% OFF</span>",
+    "thumb": "/assets/images/skins/snowboards/promo/index-promo-img-10.jpg"
+  }
+]
