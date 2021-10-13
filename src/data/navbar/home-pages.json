@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "text": "HOME",
-    "link": "/home"
+    "text": "FAQ",
+    "link": "/faq"
   },
   {
     "id": 2,
@@ -11,5 +11,18 @@
     "submenu": null,
     "mega_menu": false,
     "promo": false
+  },
+  {
+    "id": 3,
+    "text": "SHOP",
+    "link": "/shop",
+    "submenu": null,
+    "mega_menu": false,
+    "promo": true
+  },
+  {
+    "id": 4,
+    "text": "VENDOR PANEL",
+    "link": "/"
   }
 ]
