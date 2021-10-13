@@ -30,13 +30,15 @@ npm install
 npm start 
 ```
 
-Install with Yarn
- 
+
+Install with Yarn 
+
 ```
-yarn install
+yarn install 
 ```
+
 ```
-yarn dev
+yarn dev 
 ```
 
 
