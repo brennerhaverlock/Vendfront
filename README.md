@@ -9,13 +9,13 @@ Fall Intensive Project
 * React / NextJS / Bootstrap
 * MongoDB
 * Mongoose
-* Node
+* NodeJS
 
 ## Features 
-* Custom login
-* Custom signup
-* Ability to add,delete, and edit products to store
-* Use Stripe/Paypal to pay for and process payments
+* Custom login(Soon)
+* Custom signup (Soon)
+* Ability to add,delete, and edit products to store(Soon)
+* Use Stripe/Paypal to pay for and process payments(Soon)
 
 
 ## Run
