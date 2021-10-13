@@ -24,7 +24,7 @@ const HomeSkinEchoFood = () => {
     return (
         <Fragment>
             <Head>
-                <title>Echo Food :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Echo Food ::      </title>
             </Head>
 
             <div className="home-skin-echo-food">

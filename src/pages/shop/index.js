@@ -16,7 +16,7 @@ const PageShop = () => {
         <Fragment>
             <Head>
                 <title>Shop - [Store Name]</title>
-                <meta name="description" content="React Next JS Multipurpose eCommerce Template"/>
+                <meta name="description" content="  "/>
             </Head>
 
             <Header

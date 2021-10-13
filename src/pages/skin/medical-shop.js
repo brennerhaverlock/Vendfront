@@ -23,7 +23,7 @@ const HomeSkinMedical = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>Medical Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Medical Shop ::      </title>
             </Head>
 
             <div className="home-skin-medical tt-boxed">

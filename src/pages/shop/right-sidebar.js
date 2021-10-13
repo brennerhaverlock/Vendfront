@@ -16,7 +16,7 @@ const PageShopRightSidebar = () => {
         <Fragment>
             <Head>
                 <title>Shop Right Sidebar - Wokiee   </title>
-                <meta name="description" content="React Next JS Multipurpose eCommerce Template"/>
+                <meta name="description" content="  "/>
             </Head>
 
             <Header

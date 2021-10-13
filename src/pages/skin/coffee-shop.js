@@ -25,7 +25,7 @@ const HomeSkinCake = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>Coffee Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Coffee Shop ::      </title>
             </Head>
 
             <div className="home-skin-coffee">

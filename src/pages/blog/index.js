@@ -15,7 +15,7 @@ const PageBlog = ({blogs}) => {
         <Fragment>
             <Head>
                 <title>Blog - Wokiee   </title>
-                <meta name="description" content="React Next JS Multipurpose eCommerce Template"/>
+                <meta name="description" content="  "/>
             </Head>
 
             <Header

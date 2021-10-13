@@ -17,7 +17,7 @@ const HomeSkinWallets = () => {
     return (
         <Fragment>
             <Head>
-                <title>Wallets Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Wallets Shop ::      </title>
             </Head>
 
             <div className="home-skin-wallets">

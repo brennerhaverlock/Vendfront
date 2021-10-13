@@ -30,7 +30,7 @@ const HomeSkinCar = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>Car Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Car Shop ::      </title>
             </Head>
 
             <div className="home-skin-carshop">

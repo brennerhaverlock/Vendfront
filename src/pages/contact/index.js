@@ -15,8 +15,8 @@ const PageContact = () => {
     return (
         <Fragment>
             <Head>
-                <title>Contact :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
-                <meta name="description" content="React Next JS Multipurpose eCommerce Template"/>
+                <title>Contact ::      </title>
+                <meta name="description" content="  "/>
             </Head>
 
             <Header

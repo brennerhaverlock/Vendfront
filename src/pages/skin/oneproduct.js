@@ -17,7 +17,7 @@ const HomeSkinHandmade = () => {
     return (
         <Fragment>
             <Head>
-                <title>One Product :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>One Product ::      </title>
             </Head>
 
             <div className="home-skin-oneproduct">

@@ -27,7 +27,7 @@ const HomeSkinCookware = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>Cookware Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Cookware Shop ::      </title>
             </Head>
 
             <div className="home-skin-cookware">

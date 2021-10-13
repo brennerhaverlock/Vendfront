@@ -15,7 +15,7 @@ const PageBlogFullWidth = ({blogs}) => {
         <Fragment>
             <Head>
                 <title>Blog Full Width - Wokiee   </title>
-                <meta name="description" content="React Next JS Multipurpose eCommerce Template"/>
+                <meta name="description" content="  "/>
             </Head>
 
             <Header

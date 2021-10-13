@@ -23,7 +23,7 @@ const HomeSkinFlower = () => {
     return (
         <Fragment>
             <Head>
-                <title>Flowers Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Flowers Shop ::      </title>
             </Head>
 
             <div className="home-skin-flower">

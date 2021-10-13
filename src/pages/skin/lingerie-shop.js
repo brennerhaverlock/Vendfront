@@ -24,7 +24,7 @@ const HomeSkinLingerie = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>Lingerie Shop :: Wokiee - React Next JS Multipurpose eCommerce Template</title>
+                <title>Lingerie Shop ::      </title>
             </Head>
 
             <div className="home-skin-lingerie">
