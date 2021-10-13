@@ -29,9 +29,9 @@ npm install
 ```
 npm start 
 ```
-```
+
 Install with Yarn
-``` 
+ 
 ```
 yarn install
 ```
