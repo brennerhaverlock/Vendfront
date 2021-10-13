@@ -34,9 +34,6 @@ Install with Yarn
 ``` 
 yarn install
 ```
-```
-yarn dev
-```
 
 
 
