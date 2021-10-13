@@ -19,9 +19,9 @@ dd
 * Use Stripe/Paypal to pay for and process payments
 
 
-## Installation
+## Run
 
-Install globally 
+Install with NPM 
 
 ```
 npm install 
@@ -31,11 +31,14 @@ npm install
 npm start 
 ```
 
-You can also install with yarn
-
-```markdown
-## Table of Contents
-[filename](toc.md ':include')
+Install with Yarn
+``` 
+yarn install
+```
+```
+yarn dev
 ```
 
-A working `index.md` file can be found in the docs directory [here](docs/index.md) for reference.
+
+
+```markdown
