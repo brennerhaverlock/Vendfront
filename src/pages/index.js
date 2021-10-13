@@ -23,7 +23,7 @@ const Home = ({blogs}) => {
     return (
         <Fragment>
             <Head>
-                <title>[Your Store] -   </title>
+                <title>[Your Store]</title>
             </Head>
 
             <Header

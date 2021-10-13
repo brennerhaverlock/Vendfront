@@ -5,7 +5,7 @@ const Logo = ({src}) => {
     return (
         <Link href="/">
             <a className="tt-logo tt-logo-alignment">
-                <img src={src} alt="wokiee"/>
+                <img src={src} alt="[Store Name]"/>
             </a>
         </Link>
     );

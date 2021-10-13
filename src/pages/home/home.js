@@ -1,19 +1,18 @@
 import Head from "next/head";
 import {Fragment, useContext} from "react";
 import {getProductsBySkin} from "@utils/product";
-import sliderData from "@data/slider/home-six.json";
-import {BrandsTwo as Brands} from "@components/brands";
-import {FooterOne as Footer} from "@components/footer";
-import {HeaderTwo as Header} from "@components/header";
-import {SliderOne as Slider} from "@components/slider";
+import {AboutTwo as About} from "@components/about";
+import {HeaderSix as Header} from "@components/header";
 import {ProductsContext} from "@global/ProductsContext";
+import {BrandsThree as Brands} from "@components/brands";
+import {FooterThree as Footer} from "@components/footer";
 import {HomePagesNavData as navContent} from "@data/navbar";
-import {ServicesOne as Services} from "@components/services";
+import {CategoriesSix as Categories} from "@components/categories";
 import {HomeSixProductsTab as Products} from "@components/products";
-import {CategoriesFour as Categories} from "@components/categories";
+import {TestimonialOne as Testimonials} from "@components/testimonials";
 import {ContentWrapperOne as ContentWrapper} from "@components/wrapper";
 
-const HomeSix = () => {
+const Home = () => {
     const {products} = useContext(ProductsContext);
     const productsFashion = getProductsBySkin(products, 'fashion');
     const logo = "/assets/images/no-placeholder/logo.png";
@@ -21,33 +20,35 @@ const HomeSix = () => {
     return (
         <Fragment>
             <Head>
-                <title>Home 06 - Wokiee   </title>
+                <title>Home - [Store Name]</title>
             </Head>
 
             <Header
                 logo={logo}
                 navData={navContent}
+                containerFluid={false}
+                logoAlignment="center"
+                navbarAlignment="center"
             />
+
             <ContentWrapper>
-                <Slider
-                    dots={true}
-                    arrows={true}
-                    data={sliderData}
+                <Categories
                     className="nomargin"
-                    sliderWrapper="slider-style-4"
                 />
-                <Categories/>
+                <About/>
                 <Products
                     products={productsFashion}
                 />
+                <Testimonials/>
                 <Brands/>
-                <Services/>
             </ContentWrapper>
+
             <Footer
                 logo={logo}
-                newsletter={true}
+                dark={false}
+                newsletter={false}
             />
         </Fragment>
     )
 }
-export default HomeSix;
+export default Home;

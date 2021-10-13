@@ -2,10 +2,10 @@
   {
     "id": 1,
     "text": "HOME",
-    "link": "/home/nine"
+    "link": "/home"
   },
   {
-    "id": 6,
+    "id": 2,
     "text": "CONTACT",
     "link": "/contact",
     "submenu": null,
