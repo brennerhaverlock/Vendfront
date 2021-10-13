@@ -11,7 +11,7 @@ Fall Intensive Project
 * Mongoose
 * Node
 
-## Features
+## Features 
 * Custom login
 * Custom signup
 * Ability to add,delete, and edit products to store
