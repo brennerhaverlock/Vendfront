@@ -12,33 +12,32 @@ import {
 } from '@material-ui/core';
 import Layout from '../../components/Layout';
 import useStyles from '../../utils/styles';
-import Product from 'models/Product.js';
-import db from 'utils/db.js'
+import Product from '../../models/Product';
+import db from '../../utils/db';
 import axios from 'axios';
 import { Store } from '../../utils/Store';
-import { useRouter } from 'next/dist/client/router';
-
-
+import { useRouter } from 'next/router';
 
 export default function ProductScreen(props) {
-  const router = useRouter()
-  const {product} = props;
-  const { dispatch } = useContext(Store);
+  const router = useRouter();
+  const { state, dispatch } = useContext(Store);
+  const { product } = props;
   const classes = useStyles();
   if (!product) {
     return <div>Product Not Found</div>;
   }
-
   const addToCartHandler = async () => {
+    const existItem = state.cart.cartItems.find((x) => x._id === product._id);
+    const quantity = existItem ? existItem.quantity + 1 : 1;
     const { data } = await axios.get(`/api/products/${product._id}`);
-    if (data.countInStock <= 0) {
+    if (data.countInStock < quantity) {
       window.alert('Sorry. Product is out of stock');
       return;
     }
-    dispatch({ type: 'CART_ADD_ITEM', payload: { ...product, quantity: 1 } });
-    // add to cart on backend
+    dispatch({ type: 'CART_ADD_ITEM', payload: { ...product, quantity } });
     router.push('/cart');
   };
+
   return (
     <Layout title={product.name} description={product.description}>
       <div className={classes.section}>
@@ -108,9 +107,10 @@ export default function ProductScreen(props) {
               </ListItem>
               <ListItem>
                 <Button
-                 fullWidth variant="contained"
+                  fullWidth
+                  variant="contained"
                   color="primary"
-                onClick={addToCartHandler}
+                  onClick={addToCartHandler}
                 >
                   Add to cart
                 </Button>
