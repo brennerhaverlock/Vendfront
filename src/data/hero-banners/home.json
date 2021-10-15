@@ -1,0 +1,9 @@
+{
+  "id": 1,
+  "title": "<div class=\"tt-title-large\"><span class=\"tt-white-color\">USE UNIQUE<br> DEMOS</span></div>",
+  "subTitle": "<div class=\"tt-title-small\"><span class=\"tt-white-color\">READY TO</span></div>",
+  "content": "<p>Optimized for speed, website that sells</p>",
+  "btnText": "SHOP NOW!",
+  "btnLink": "/shop",
+  "bgImage": "/assets/images/slides/02/index02-promo-img-01.jpg"
+}
