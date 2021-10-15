@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useContext } from 'react';
 import NextLink from 'next/link';
 import Image from 'next/image';
 import {
@@ -14,6 +14,10 @@ import Layout from '../../components/Layout';
 import useStyles from '../../utils/styles';
 import Product from 'models/Product.js';
 import db from 'utils/db.js'
+import axios from 'axios';
+import { Store } from '../../utils/Store';
+
+
 
 export default function ProductScreen(props) {
   const {product} = props;
@@ -23,14 +27,14 @@ export default function ProductScreen(props) {
     return <div>Product Not Found</div>;
   }
 
-  const addToCartHandler = () => {
-    const {data} = await axios.get(`/api/products/${product._id}`);
-    if(data.countInStock <= 0) {
-      window.alert('Sorry product is out of stock!')
+  const addToCartHandler = async () => {
+    const { data } = await axios.get(`/api/products/${product._id}`);
+    if (data.countInStock <= 0) {
+      window.alert('Sorry. Product is out of stock');
       return;
     }
-    dispatch({type: 'CARD_ADD_ITEM', payload: {...product, quantity: 1} })
-  }
+    dispatch({ type: 'CART_ADD_ITEM', payload: { ...product, quantity: 1 } });
+  };
   return (
     <Layout title={product.name} description={product.description}>
       <div className={classes.section}>
@@ -102,7 +106,7 @@ export default function ProductScreen(props) {
                 <Button
                  fullWidth variant="contained"
                   color="primary"
-                onClick={addCartHandler}
+                onClick={addToCartHandler}
                 >
                   Add to cart
                 </Button>
