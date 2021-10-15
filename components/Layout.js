@@ -79,9 +79,6 @@ export default function Layout({ title, description, children }) {
           </Toolbar>
         </AppBar>
         <Container className={classes.main}>{children}</Container>
-        <footer className={classes.footer}>
-          <Typography>All rights reserved. Next Amazona.</Typography>
-        </footer>
       </ThemeProvider>
     </div>
   );
