@@ -16,10 +16,12 @@ import Product from 'models/Product.js';
 import db from 'utils/db.js'
 import axios from 'axios';
 import { Store } from '../../utils/Store';
+import { useRouter } from 'next/dist/client/router';
 
 
 
 export default function ProductScreen(props) {
+  const router = useRouter()
   const {product} = props;
   const { dispatch } = useContext(Store);
   const classes = useStyles();
@@ -34,6 +36,8 @@ export default function ProductScreen(props) {
       return;
     }
     dispatch({ type: 'CART_ADD_ITEM', payload: { ...product, quantity: 1 } });
+    // add to cart on backend
+    router.push('/cart');
   };
   return (
     <Layout title={product.name} description={product.description}>
