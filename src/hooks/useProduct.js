@@ -8,13 +8,13 @@ import {getCartProductQuantity, getDiscountPrice, getWishCompareProduct} from "@
 const useProduct = (product) => {
     const {name, discount, variations} = product;
 
-    const [productSize, setProductSize] = useState("");
-    const [productStock, setProductStock] = useState(0);
-    const [productPrice, setProductPrice] = useState(0);
-    const [productColor, setProductColor] = useState("");
+    const [productSize, setProductSize] = useState("Null");
+    const [productStock, setProductStock] = useState(1);
+    const [productPrice, setProductPrice] = useState(1);
+    const [productColor, setProductColor] = useState("Null");
     const [productQuantity, setProductQuantity] = useState(1);
-    const [productMaterial, setProductMaterial] = useState("");
-    const [productColorImage, setProductColorImage] = useState("");
+    const [productMaterial, setProductMaterial] = useState("Null");
+    const [productColorImage, setProductColorImage] = useState("Null");
     const [modalQuickView, setModalQuickView] = useState(false);
     const [modalCartAdded, setModalCartNotification] = useState(false);
 
@@ -111,7 +111,7 @@ const useProduct = (product) => {
         setProductColor(variations && variations[0]?.color?.name);
         setProductSize(variations && variations[0]?.sizes[0]?.name);
         setProductStock(variations ? variations[0]?.sizes[0]?.stock : product.stock);
-        setProductMaterial(variations && variations[0]?.materials[0]?.slug);
+        // setProductMaterial(variations && variations[0]?.materials[0]?.slug);
         setProductPrice(variations ? variations[0]?.materials[0]?.price : product.price);
     }, []);
 
