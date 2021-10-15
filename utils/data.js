@@ -38,7 +38,7 @@ const data = {
     },
     {
       name: 'RECON',
-      slug: 'Electric Bike',
+      slug: 'recon',
       category: 'Pants',
       image: '/images/bike2.jpg',
       price: 90000,
@@ -50,7 +50,7 @@ const data = {
     },
     {
       name: 'Super73',
-      slug: 'Electric',
+      slug: 'super',
       category: 'Bike',
       image: '/images/bike1.jpg',
       price: 2000,
@@ -62,7 +62,7 @@ const data = {
     },
     {
       name: 'OneWheel',
-      slug: 'Electric',
+      slug: 'onewheel',
       category: 'Riding',
       image: '/images/scooter4.jpg',
       price: 300,
