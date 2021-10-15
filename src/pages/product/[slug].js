@@ -20,7 +20,7 @@ const PageProductDetails = ({product}) => {
     return (
         <Fragment>
             <Head>
-                <title>{name + 'Wokiee'}</title>
+                <title>{name + '[Store Name]'}</title>
                 <meta name="description" content={excerpt}/>
             </Head>
 

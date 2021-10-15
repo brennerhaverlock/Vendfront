@@ -22,7 +22,12 @@
   },
   {
     "id": 4,
+    "text": "About",
+    "link": "/about"
+  },
+  {
+    "id": 5,
     "text": "VENDOR PANEL",
-    "link": "/"
+    "link": "/404"
   }
 ]

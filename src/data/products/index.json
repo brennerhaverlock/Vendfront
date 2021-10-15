@@ -11,17 +11,17 @@
     "vendor": "GUESS",
     "skin": "fashion",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
-      "casual",
-      "women",
-      "shirt"
+      "[Category 4]",
+      "[Category 5]",
+      "[Category 6]"
     ],
     "tags": [
-      "shirt",
-      "women"
+      "[Tag 4]",
+      "[Tag 5]"
     ],
     "thumbs": [
       "/assets/images/product/product-01.jpg",
@@ -127,17 +127,17 @@
     "skin": "fashion",
     "type": [
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
-      "men",
-      "women",
-      "dresses"
+      "[Category 1]",
+      "[Category 2]",
+      "[Category 3]"
     ],
     "tags": [
-      "cap",
-      "men",
-      "winter"
+      "[Tag 1]",
+      "[Tag 2]",
+      "[Tag 3]"
     ],
     "thumbs": [
       "/assets/images/product/product-02.jpg",
@@ -623,7 +623,7 @@
     "skin": "fashion",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "scarf",
@@ -792,7 +792,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "men",
@@ -1204,7 +1204,7 @@
     "vendor": "GUESS",
     "skin": "fashion",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -1245,7 +1245,7 @@
     "vendor": "LEVI'S",
     "skin": "fashion",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -1553,7 +1553,7 @@
     "vendor": "LEVI'S",
     "skin": "fashion",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -1783,7 +1783,7 @@
     "skin": "fashion",
     "type": [
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "men",
@@ -1858,7 +1858,7 @@
     "vendor": "Hill",
     "skin": "books",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -1896,7 +1896,7 @@
     "vendor": "Ayres",
     "skin": "books",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -1934,7 +1934,7 @@
     "vendor": "Colette",
     "skin": "books",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "memoirs",
@@ -1972,7 +1972,7 @@
     "vendor": "OVABA",
     "skin": "books",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2012,7 +2012,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2049,7 +2049,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2086,7 +2086,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2122,7 +2122,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2158,7 +2158,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2194,7 +2194,7 @@
     "vendor": "OVABA",
     "skin": "care",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2230,7 +2230,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2267,7 +2267,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2304,7 +2304,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2341,7 +2341,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2378,7 +2378,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2415,7 +2415,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2452,7 +2452,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2489,7 +2489,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -2526,7 +2526,7 @@
     "vendor": "OVABA",
     "skin": "cake-shop",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -3307,7 +3307,7 @@
     "skin": "cookware",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "cutlery & knife",
@@ -3448,7 +3448,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "congrats",
@@ -3483,7 +3483,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "with-love",
@@ -3518,7 +3518,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "birthday",
@@ -3553,7 +3553,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "with-love",
@@ -3588,7 +3588,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "congrats",
@@ -3623,7 +3623,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "thank-you",
@@ -3658,7 +3658,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "combo",
@@ -3693,7 +3693,7 @@
     "skin": "flower",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "combo",
@@ -3728,7 +3728,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "burgers",
@@ -3763,7 +3763,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "burgers",
@@ -3798,7 +3798,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "burgers",
@@ -3833,7 +3833,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "burgers",
@@ -3868,7 +3868,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "burgers",
@@ -3903,7 +3903,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "salads",
@@ -3938,7 +3938,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "salads",
@@ -3973,7 +3973,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "salads",
@@ -4008,7 +4008,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "salads",
@@ -4043,7 +4043,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "salads",
@@ -4078,7 +4078,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4113,7 +4113,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4148,7 +4148,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4183,7 +4183,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4218,7 +4218,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4253,7 +4253,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "snacks",
@@ -4288,7 +4288,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "soups",
@@ -4323,7 +4323,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "soups",
@@ -4358,7 +4358,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "soups",
@@ -4393,7 +4393,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "soups",
@@ -4428,7 +4428,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "soups",
@@ -4463,7 +4463,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "sauces",
@@ -4498,7 +4498,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "sauces",
@@ -4533,7 +4533,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "sauces",
@@ -4568,7 +4568,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "sauces",
@@ -4603,7 +4603,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "sauces",
@@ -4638,7 +4638,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "beverages",
@@ -4674,7 +4674,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "beverages",
@@ -4710,7 +4710,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "beverages",
@@ -4746,7 +4746,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "beverages",
@@ -4782,7 +4782,7 @@
     "skin": "foods",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "beverages",
@@ -4854,7 +4854,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -4889,7 +4889,7 @@
     "vendor": "REGAL",
     "skin": "furniture",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -4990,7 +4990,7 @@
     "skin": "furniture",
     "type": [
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5024,7 +5024,7 @@
     "skin": "furniture",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5091,7 +5091,7 @@
     "skin": "furniture",
     "type": [
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5125,7 +5125,7 @@
     "skin": "furniture",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5159,7 +5159,7 @@
     "skin": "furniture",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5226,7 +5226,7 @@
     "vendor": "ROYAL",
     "skin": "furniture",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "furniture"
@@ -5294,7 +5294,7 @@
     "vendor": "REGAL",
     "skin": "furniture",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5328,7 +5328,7 @@
     "vendor": "ROYAL",
     "skin": "furniture",
     "type": [
-      "tending",
+      "trending",
       "specials",
       "featured"
     ],
@@ -5363,7 +5363,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5397,7 +5397,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5431,7 +5431,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5465,7 +5465,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5499,7 +5499,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5533,7 +5533,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5567,7 +5567,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5601,7 +5601,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5635,7 +5635,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5669,7 +5669,7 @@
     "vendor": "RAK",
     "skin": "handmade",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5703,7 +5703,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5741,7 +5741,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5778,7 +5778,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5815,7 +5815,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5853,7 +5853,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5891,7 +5891,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5927,7 +5927,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -5965,7 +5965,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6002,7 +6002,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6039,7 +6039,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6076,7 +6076,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6113,7 +6113,7 @@
     "vendor": "YELLOW",
     "skin": "t-shirt",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6150,7 +6150,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6185,7 +6185,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6220,7 +6220,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6254,7 +6254,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6288,7 +6288,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6323,7 +6323,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6358,7 +6358,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6393,7 +6393,7 @@
     "vendor": "TAAZA",
     "skin": "tea",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6428,7 +6428,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6462,7 +6462,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6496,7 +6496,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6530,7 +6530,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6564,7 +6564,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6598,7 +6598,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6633,7 +6633,7 @@
     "vendor": "Bellota",
     "skin": "tools",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6667,7 +6667,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6701,7 +6701,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6735,7 +6735,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6769,7 +6769,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6803,7 +6803,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6837,7 +6837,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6871,7 +6871,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6905,7 +6905,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6939,7 +6939,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -6973,7 +6973,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7007,7 +7007,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7041,7 +7041,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7075,7 +7075,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7109,7 +7109,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7143,7 +7143,7 @@
     "vendor": "VIPER",
     "skin": "wallets",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7177,7 +7177,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7211,7 +7211,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7245,7 +7245,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7279,7 +7279,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7313,7 +7313,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7347,7 +7347,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7381,7 +7381,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7415,7 +7415,7 @@
     "vendor": "HT",
     "skin": "watches",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7449,7 +7449,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7486,7 +7486,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7523,7 +7523,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7560,7 +7560,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7597,7 +7597,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7634,7 +7634,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7671,7 +7671,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7708,7 +7708,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7745,7 +7745,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7782,7 +7782,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7819,7 +7819,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7856,7 +7856,7 @@
     "vendor": "DURONTO",
     "skin": "bicycle",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7893,7 +7893,7 @@
     "vendor": "HERO",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7929,7 +7929,7 @@
     "vendor": "YAHAMA",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -7965,7 +7965,7 @@
     "vendor": "SUZUKI",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8001,7 +8001,7 @@
     "vendor": "TVS",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8036,7 +8036,7 @@
     "vendor": "HERO",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8071,7 +8071,7 @@
     "vendor": "YAHAMA",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8106,7 +8106,7 @@
     "vendor": "HERO",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8142,7 +8142,7 @@
     "vendor": "TVS",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8177,7 +8177,7 @@
     "vendor": "LIFAN",
     "skin": "bike",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8213,7 +8213,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8248,7 +8248,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8283,7 +8283,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8318,7 +8318,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8353,7 +8353,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8388,7 +8388,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8423,7 +8423,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8458,7 +8458,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8493,7 +8493,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8528,7 +8528,7 @@
     "vendor": "BXW",
     "skin": "car",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8743,7 +8743,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8778,7 +8778,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8813,7 +8813,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8848,7 +8848,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8883,7 +8883,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8918,7 +8918,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8953,7 +8953,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -8988,7 +8988,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9023,7 +9023,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9058,7 +9058,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9093,7 +9093,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9128,7 +9128,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9163,7 +9163,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9198,7 +9198,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9233,7 +9233,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9268,7 +9268,7 @@
     "vendor": "YOYO",
     "skin": "cosmetics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9338,7 +9338,7 @@
     "vendor": "UPPLE",
     "skin": "electronics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9373,7 +9373,7 @@
     "vendor": "UPPLE",
     "skin": "electronics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9408,7 +9408,7 @@
     "vendor": "UPPLE",
     "skin": "electronics",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9479,7 +9479,7 @@
     "skin": "electronics",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "electronics"
@@ -9514,7 +9514,7 @@
     "skin": "electronics",
     "type": [
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "electronics"
@@ -9583,7 +9583,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9618,7 +9618,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9653,7 +9653,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9688,7 +9688,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9723,7 +9723,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9758,7 +9758,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9793,7 +9793,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9828,7 +9828,7 @@
     "vendor": "XZY",
     "skin": "glasses",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9863,7 +9863,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9898,7 +9898,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9933,7 +9933,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -9968,7 +9968,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10003,7 +10003,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10038,7 +10038,7 @@
     "vendor": "BLACK",
     "skin": "gothic",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10073,7 +10073,7 @@
     "vendor": "JEWELRY",
     "skin": "jewelry",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "jewelry"
@@ -10107,7 +10107,7 @@
     "vendor": "JEWELRY",
     "skin": "jewelry",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "jewelry"
@@ -10141,7 +10141,7 @@
     "vendor": "JEWELRY",
     "skin": "jewelry",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10176,7 +10176,7 @@
     "vendor": "JEWELRY",
     "skin": "jewelry",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "jewelry"
@@ -10210,7 +10210,7 @@
     "vendor": "JEWELRY",
     "skin": "jewelry",
     "type": [
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10591,7 +10591,7 @@
     "vendor": "XZY",
     "skin": "kids-toys",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "toys"
@@ -10662,7 +10662,7 @@
     "skin": "kids-toys",
     "type": [
       "featured",
-      "tending",
+      "trending",
       "specials"
     ],
     "categories": [
@@ -10731,7 +10731,7 @@
     "vendor": "ZXY",
     "skin": "kids-toys",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -10805,7 +10805,7 @@
     "type": [
       "specials",
       "featured",
-      "tending"
+      "trending"
     ],
     "categories": [
       "toys"
@@ -11123,7 +11123,7 @@
     "vendor": "ZXY",
     "skin": "kids-toys",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "toys"
@@ -11158,7 +11158,7 @@
     "vendor": "ZXY",
     "skin": "kids-toys",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "toys"
@@ -11263,7 +11263,7 @@
     "vendor": "XZY",
     "skin": "lingerie",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -11300,7 +11300,7 @@
     "vendor": "XZY",
     "skin": "lingerie",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -11337,7 +11337,7 @@
     "vendor": "XZY",
     "skin": "lingerie",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -11374,7 +11374,7 @@
     "vendor": "XZY",
     "skin": "lingerie",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -11411,7 +11411,7 @@
     "vendor": "XZY",
     "skin": "lingerie",
     "type": [
-      "tending",
+      "trending",
       "featured"
     ],
     "categories": [
@@ -11480,7 +11480,7 @@
     "vendor": "MEDICAL",
     "skin": "medical",
     "type": [
-      "tending",
+      "trending",
       "featured",
       "specials"
     ],
@@ -11546,7 +11546,7 @@
     "vendor": "MEDICAL",
     "skin": "medical",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "medical"
@@ -11611,7 +11611,7 @@
     "skin": "medical",
     "type": [
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "medical"
@@ -11677,7 +11677,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "medical"
@@ -11711,7 +11711,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones"
@@ -11747,7 +11747,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones"
@@ -11786,7 +11786,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones"
@@ -11822,7 +11822,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones"
@@ -11858,7 +11858,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones"
@@ -11894,7 +11894,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -11930,7 +11930,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -11966,7 +11966,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12002,7 +12002,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12038,7 +12038,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12074,7 +12074,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12110,7 +12110,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12146,7 +12146,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12182,7 +12182,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12218,7 +12218,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12254,7 +12254,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12290,7 +12290,7 @@
     "type": [
       "featured",
       "specials",
-      "tending"
+      "trending"
     ],
     "categories": [
       "phones",
@@ -12392,7 +12392,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"
@@ -12426,7 +12426,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"
@@ -12460,7 +12460,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"
@@ -12495,7 +12495,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"
@@ -12529,7 +12529,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"
@@ -12564,7 +12564,7 @@
     "vendor": "XYZ",
     "skin": "snowboards",
     "type": [
-      "tending"
+      "trending"
     ],
     "categories": [
       "snowboards"

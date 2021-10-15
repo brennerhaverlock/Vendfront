@@ -17,7 +17,7 @@ const WishlistPage = () => {
     return (
         <Fragment>
             <Head>
-                <title>Wishlist - Wokiee   </title>
+                <title>Wishlist - [Store Name]   </title>
             </Head>
 
             <Header
