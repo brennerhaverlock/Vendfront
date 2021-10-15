@@ -16,10 +16,20 @@ import Product from 'models/Product.js';
 import db from 'utils/db.js'
 
 export default function ProductScreen(props) {
-  const classes = useStyles();
   const {product} = props;
+  const { dispatch } = useContext(Store);
+  const classes = useStyles();
   if (!product) {
     return <div>Product Not Found</div>;
+  }
+
+  const addToCartHandler = () => {
+    const {data} = await axios.get(`/api/products/${product._id}`);
+    if(data.countInStock <= 0) {
+      window.alert('Sorry product is out of stock!')
+      return;
+    }
+    dispatch({type: 'CARD_ADD_ITEM', payload: {...product, quantity: 1} })
   }
   return (
     <Layout title={product.name} description={product.description}>
@@ -89,7 +99,11 @@ export default function ProductScreen(props) {
                 </Grid>
               </ListItem>
               <ListItem>
-                <Button fullWidth variant="contained" color="primary">
+                <Button
+                 fullWidth variant="contained"
+                  color="primary"
+                onClick={addCartHandler}
+                >
                   Add to cart
                 </Button>
               </ListItem>
