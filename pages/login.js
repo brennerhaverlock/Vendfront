@@ -6,32 +6,43 @@ import {
     Button,
     Link,
   } from '@material-ui/core';
-import axios from 'axios';
+  import axios from 'axios';
+  import { useRouter } from 'next/router';
   import NextLink from 'next/link';
-  import React, {useState} from 'react';
+  import React, { useContext, useEffect, useState } from 'react';
   import Layout from '../components/Layout';
+  import { Store } from '../utils/Store';
   import useStyles from '../utils/styles';
+  import Cookies from 'js-cookie';
   
   export default function Login() {
-    const [email, setEmail] = useState('');
-    const [password, setPassword] = useState('');  
+    const router = useRouter();
+    const { redirect } = router.query; // login?redirect=/shipping
+    const { state, dispatch } = useContext(Store);
+    const { userInfo } = state;
+    useEffect(() => {
+      if (userInfo) {
+        router.push('/');
+      }
+    }, []);
   
+    const [email, setEmail] = useState('');
+    const [password, setPassword] = useState('');
     const classes = useStyles();
-    //declare submit logic on backend
     const submitHandler = async (e) => {
-        //prevents refresh page error
-        e.preventDefault();
-        try {
-            const {data} = await axios.post('/api/users/login', {
-                email,
-                password
-            });
-            alert('success login')
-        } catch(err) {
-            alert(err.message);
-        }
-        //send ajax request to test
-    }
+      e.preventDefault();
+      try {
+        const { data } = await axios.post('/api/users/login', {
+          email,
+          password,
+        });
+        dispatch({ type: 'USER_LOGIN', payload: data });
+        Cookies.set('userInfo', data);
+        router.push(redirect || '/');
+      } catch (err) {
+        alert(err.response.data ? err.response.data.message : err.message);
+      }
+    };
     return (
       <Layout title="Login">
         <form onSubmit={submitHandler} className={classes.form}>
@@ -46,7 +57,7 @@ import axios from 'axios';
                 id="email"
                 label="Email"
                 inputProps={{ type: 'email' }}
-                onChange={e => setEmail(e.target.value)}
+                onChange={(e) => setEmail(e.target.value)}
               ></TextField>
             </ListItem>
             <ListItem>
@@ -56,7 +67,7 @@ import axios from 'axios';
                 id="password"
                 label="Password"
                 inputProps={{ type: 'password' }}
-                onChange={e => setPassword(e.target.value)}
+                onChange={(e) => setPassword(e.target.value)}
               ></TextField>
             </ListItem>
             <ListItem>
@@ -65,7 +76,7 @@ import axios from 'axios';
               </Button>
             </ListItem>
             <ListItem>
-              Do not have an account? &nbsp;
+              Don't have an account? &nbsp;
               <NextLink href="/register" passHref>
                 <Link>Register</Link>
               </NextLink>
@@ -75,4 +86,3 @@ import axios from 'axios';
       </Layout>
     );
   }
-  
