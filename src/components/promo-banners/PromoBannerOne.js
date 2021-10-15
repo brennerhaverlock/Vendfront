@@ -1,6 +1,6 @@
 import {Row, Col} from "react-bootstrap";
 import {PromoOne as Promo} from "@components/promo";
-import banners from "@data/promo-banners/home-01.json";
+import banners from "@data/promo-banners/home.json";
 
 const PromoBannerOne = () => {
     return (

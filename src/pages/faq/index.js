@@ -3,8 +3,8 @@ import {Fragment} from "react";
 import FAQItem from "@components/faq";
 import Breadcrumb from "@components/ui/breadcrumb";
 import {Col, Container, Row} from "react-bootstrap";
-import {HeaderOne as Header} from "@components/header";
-import {FooterOne as Footer} from "@components/footer";
+import {Header as Header} from "@components/header";
+import {Footer as Footer} from "@components/footer";
 import {HomePagesNavData as navContent} from "@data/navbar";
 import {ContentWrapperOne as Wrapper} from "@components/wrapper";
 

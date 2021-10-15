@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "title": "FALL-WINTER CLEARANCE SALES",
+    "heading": "GET UP TO <span class=\"tt-base-color\">50% OFF",
+    "thumb": "/assets/images/promo/index-promo-img-07.jpg",
+    "link": "/"
+  },
+  {
+    "id": 2,
+    "title": "SUMMER <span class=\"tt-base-color\">2018</span>",
+    "heading": "NEW ARRIVALS",
+    "thumb": "/assets/images/promo/index-promo-img-08.jpg",
+    "link": "/"
+  },
+  {
+    "id": 3,
+    "title": "NEW COLLECTION",
+    "heading": "<span class=\"tt-base-color\">HANDBAGS</span>",
+    "thumb": "/assets/images/promo/index-promo-img-09.jpg",
+    "link": "/"
+  }
+]

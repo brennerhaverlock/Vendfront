@@ -1,8 +1,8 @@
 import Head from "next/head";
 import {Fragment, useContext} from "react";
 import Breadcrumb from "@components/ui/breadcrumb";
-import {HeaderOne as Header} from "@components/header";
-import {FooterOne as Footer} from "@components/footer";
+import {Header as Header} from "@components/header";
+import {Footer as Footer} from "@components/footer";
 import {WishlistContext} from "@global/WishlistContext";
 import {HomePagesNavData as navContent} from "@data/navbar";
 import EmptyWishlist from "@components/wishlist/EmptyWishlist";
@@ -17,7 +17,7 @@ const WishlistPage = () => {
     return (
         <Fragment>
             <Head>
-                <title>Wishlist - Wokiee   </title>
+                <title>Wishlist - [Store Name]   </title>
             </Head>
 
             <Header
