@@ -1,5 +1,5 @@
 import {Container} from "react-bootstrap";
-import data from "@data/hero-banners/home.json";
+import data from "@data/hero-banners/HeroBanner.json";
 import SlideContent from "@components/slider/elements/SlideContent";
 
 const HeroBannerOne = ({className}) => {

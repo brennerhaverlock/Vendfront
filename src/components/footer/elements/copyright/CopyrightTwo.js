@@ -17,7 +17,7 @@ const CopyrightOne = ({className, dark, logo}) => {
                         </div>
                         <div className="tt-col-item">
                             <div className="tt-box-copyright ht-copy">
-                                &copy; [Store Name] {new Date().getFullYear()}. Made with <i className="text-danger icon-h-37"/>
+                                &copy; [Store Name] {new Date().getFullYear()}. Made with <i className="text-danger icon-h-37"/> 
                             </div>
                         </div>
                     </div>
