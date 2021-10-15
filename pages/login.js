@@ -123,7 +123,7 @@ import {
               </Button>
             </ListItem>
             <ListItem>
-              Don't have an account? &nbsp;
+              Do not have an account? &nbsp;
               <NextLink href={`/register?redirect=${redirect || '/'}`} passHref>
                 <Link>Register</Link>
               </NextLink>
