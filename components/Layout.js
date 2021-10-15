@@ -73,12 +73,14 @@ export default function Layout({ title, description, children }) {
               <NextLink href="/cart" passHref>
                 <Link>
                 {cart.cartItems.length > 0 ? (
-                <Badge badgeContent = {cart.cartItems.length}>
+                <Badge
+                color = "secondary"
+                badgeContent = {cart.cartItems.length}>
                   Cart</Badge>
                 ): (
                 "Cart"  
                 )} 
-                Cart</Link>
+                </Link>
               </NextLink>
               <NextLink href="/login" passHref>
                 <Link>Login</Link>
