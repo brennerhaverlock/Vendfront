@@ -1,85 +1,57 @@
 import Head from "next/head";
-import {getBlogPosts} from "@utils/blog";
-import LatestBlog from "@components/blog";
+import NextLink from 'next/link';
+
+import data from '../utils/data';
 import {Fragment, useContext} from "react";
 import {getProductsBySkin} from "@utils/product";
-import sliderData from "@data/slider/home-one.json";
-import {HeaderOne as Header} from "@components/header";
-import {SliderOne as Slider} from "@components/slider";
-import {FooterOne as Footer} from "@components/footer";
+import {AboutTwo as About} from "@components/about";
+import {HeaderSix as Header} from "@components/header";
 import {ProductsContext} from "@global/ProductsContext";
+import {BrandsThree as Brands} from "@components/brands";
+import {FooterThree as Footer} from "@components/footer";
 import {HomePagesNavData as navContent} from "@data/navbar";
-import {ServicesOne as Services} from "@components/services";
-import {CategoriesOne as Categories} from "@components/categories";
+import {CategoriesSix as Categories} from "@components/categories";
+import {HomeSixProductsTab as Products} from "@components/products";
+import {TestimonialOne as Testimonials} from "@components/testimonials";
 import {ContentWrapperOne as ContentWrapper} from "@components/wrapper";
-import {PromoBannerOne as PromoBanners} from "@components/promo-banners";
-import {BestSelling, TendingProducts as Tending} from "@components/products";
 
-const Home = ({blogs}) => {
+const Home = () => {
     const {products} = useContext(ProductsContext);
-    const productsFashion = getProductsBySkin(products, "fashion");
+    const productsFashion = getProductsBySkin(products, 'fashion');
     const logo = "/assets/images/no-placeholder/logo.png";
 
     return (
         <Fragment>
             <Head>
-                <title>[Your Store]</title>
+                <title>[Store Name] :: [Store Description]</title>
             </Head>
 
             <Header
                 logo={logo}
-                navbar={true}
-                dark={false}
                 navData={navContent}
-                navbarAlignment="left"
+                containerFluid={false}
+                logoAlignment="center"
+                navbarAlignment="center"
             />
 
             <ContentWrapper>
-                <Slider
-                    dots={true}
-                    arrows={true}
-                    data={sliderData}
+                <Categories
                     className="nomargin"
                 />
-                <Categories/>
-                <Tending
+                <About/>
+                <Products
                     products={productsFashion}
                 />
-                <PromoBanners/>
-                <BestSelling
-                    products={productsFashion}
-                />
-                <LatestBlog
-                    blogs={blogs}
-                />
-                <Services/>
+                <Testimonials/>
+                <Brands/>
             </ContentWrapper>
 
             <Footer
                 logo={logo}
                 dark={false}
-                newsletter={true}
+                newsletter={false}
             />
         </Fragment>
     )
 }
-
-export async function getStaticProps() {
-    const blogs = getBlogPosts([
-        'title',
-        'excerpt',
-        'date',
-        'author',
-        'thumb',
-        'slug',
-        'categories'
-    ], 3);
-
-    return {
-        props: {
-            blogs: blogs
-        }
-    }
-}
-
 export default Home;

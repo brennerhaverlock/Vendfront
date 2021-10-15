@@ -31,9 +31,7 @@ const PageAbout = () => {
                             <Col md={11} lg={9}>
                                 <div className="tt-about-box-02">
                                     <h2 className="tt-title">
-                                        Wokiee is a global fashion destination for 20-somethings.
-                                        We sell cutting-edge fashion and offer a wide variety
-                                        of fashion-related content.
+                                        [Store description]
                                     </h2>
                                 </div>
                             </Col>
@@ -77,7 +75,7 @@ const PageAbout = () => {
                                     <div className="tt-box-info">
                                         <p>
                                             <span className="tt-base-dark-color">Address: </span>
-                                            2548 Broaddus Maple Court Avenue, Madisonville KY 4783,<br/> United States
+                                            201 9th St, San Francisco, CA 94103,<br/> United States
                                             of America
                                         </p>
                                         <p><span className="tt-base-dark-color">Phone:</span> +777 2345 7885: +777 2345
