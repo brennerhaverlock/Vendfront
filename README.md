@@ -12,13 +12,13 @@ Fall Intensive Project
 * NodeJS
 
 ## Features 
-* Custom login(Soon)
-* Custom signup (Soon)
-* Ability to add,delete, and edit products to store(Soon)
+* Custom login
+* Custom signup 
+* Ability to add,delete, and edit products to store through Admin 
 * Use Stripe/Paypal to pay for and process payments(Soon)
 
 
-## Run
+## Install
 
 Install with NPM 
 
@@ -40,6 +40,8 @@ yarn install
 ```
 yarn dev 
 ```
+
+
 
 
 
