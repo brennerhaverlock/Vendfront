@@ -24,14 +24,13 @@ async function connect() {
     // connect to database
 
     const db = await mongoose.connect(process.env.MONGODB_URI, {
-        useNewUrlParser: true,
-        useUnifiedTopology: true,
-        useCreateIndex: true
     });
     console.log('new connection')
     connection.isConnected = db.connections[0].readyState;
 }
-// setup disconnect for production (does not work in local)
+
+
+// setup disconnect 
 async function disconnect() {
     if(connection.isConnected) {
         if(process.env.NODE_ENV === 'production') {
@@ -43,4 +42,4 @@ async function disconnect() {
 }
 
 const db = {connect, disconnect};
-export default db
+export default db;
