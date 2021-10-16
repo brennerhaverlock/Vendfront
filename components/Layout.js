@@ -11,6 +11,7 @@ import {
   ThemeProvider,
   CssBaseline,
   Switch,
+  Badge
 } from '@material-ui/core';
 import useStyles from '../utils/styles';
 import { Store } from '../utils/Store';
@@ -48,6 +49,8 @@ export default function Layout({ title, description, children }) {
     const newDarkMode = !darkMode;
     Cookies.set('darkMode', newDarkMode ? 'ON' : 'OFF');
   };
+
+  
   return (
     <div>
       <Head>

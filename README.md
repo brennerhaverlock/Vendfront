@@ -20,20 +20,21 @@ Fall Intensive Project
 ## Prerequisites
 
 [MongoDB Community Edition](https://docs.mongodb.com/manual/installation/)
+[MongoDB Compass(GUI to view JSON backend)](https://www.mongodb.com/products/compass)
+[MongoDB Account(We need this to acquire API key)](https://docs.mongodb.com/realm/authentication/api-key/)
 
-[MongoDB Account(We need this to acquire API key)](https://docs.mongodb.com/manual/installation/)
 
-
-## Installation
+## Local Installation
 
 Clone Repo
 ```
 git clone https://github.com/brennerhaverlock/Vendfront.git
 ```
-
-### Install dependencies
+### CD into folder Install dependencies
 
 ```
+git clone https://github.com/brennerhaverlock/Vendfront.git
+cd Vendfront
 npm install 
 ```
 
@@ -43,9 +44,18 @@ npm install
 touch .env
 ```
 
+### Change following values in .env file 
+
 ```
-MONGODB_URI=mongodb://localhost/<yourprojectname>
+MONGODB_URI=mongodb://localhost/<yourdatabasename>
 ```
+
+
+
+
+
+
+
 
 ### Deployment to local
 
