@@ -18,10 +18,14 @@ Fall Intensive Project (Documentation still in progress)
 * Use Stripe/Paypal to pay for and process payments(Soon)
 
 ## Prerequisites
+<div style="page-break-after: always;"></div>
 
 [MongoDB Community Edition](https://docs.mongodb.com/manual/installation/)
-[MongoDB Compass(GUI to view JSON backend)](https://www.mongodb.com/products/compass)
-[MongoDB Account(We need this to acquire API key)](https://docs.mongodb.com/realm/authentication/api-key/)
+<div style="page-break-after: always;"></div>
+[MongoDB Compass](https://www.mongodb.com/products/compass)
+<div style="page-break-after: always;"></div>
+[MongoDB Account](https://docs.mongodb.com/realm/authentication/api-key/)
+<div style="page-break-after: always;"></div>
 
 
 ## Local Installation
