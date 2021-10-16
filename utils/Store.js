@@ -19,6 +19,7 @@ function reducer(state, action) {
       return { ...state, darkMode: false };
     case 'CART_ADD_ITEM': {
       const newItem = action.payload;
+      // check for duplicates
       const existItem = state.cart.cartItems.find(
         (item) => item._id === newItem._id
       );
