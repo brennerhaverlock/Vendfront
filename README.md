@@ -21,6 +21,8 @@ Fall Intensive Project
 
 [MongoDB Community Edition](https://docs.mongodb.com/manual/installation/)
 
+[MongoDB Account(We need this to acquire API key)](https://docs.mongodb.com/manual/installation/)
+
 
 ## Installation
 
@@ -35,7 +37,11 @@ git clone https://github.com/brennerhaverlock/Vendfront.git
 npm install 
 ```
 
-### Create .env file with these parameters 
+### Create .env file in root directory with these parameters 
+
+```
+touch .env
+```
 
 ```
 MONGODB_URI=mongodb://localhost/<yourprojectname>
