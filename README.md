@@ -1,5 +1,5 @@
 # Vendfront
-Fall Intensive Project 
+Fall Intensive Project (10/15 : Updated Docs for Local and Prod Coming Soon)
 
 ## Overview
 
