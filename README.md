@@ -1,5 +1,5 @@
 # Vendfront
-Fall Intensive Project (10/15 : Updated Docs for Local and Prod Coming Soon)
+Fall Intensive Project (Documentation still in progress)
 
 ## Overview
 
@@ -12,36 +12,56 @@ Fall Intensive Project (10/15 : Updated Docs for Local and Prod Coming Soon)
 * NodeJS
 
 ## Features 
-* Custom login
-* Custom signup 
-* Ability to add,delete, and edit products to store through Admin 
+* Custom login(Soon)
+* Custom signup (Soon)
+* Ability to add,delete, and edit products to store(Soon)
 * Use Stripe/Paypal to pay for and process payments(Soon)
 
+## Prerequisites
 
-## Install
+[MongoDB Community Edition](https://docs.mongodb.com/manual/installation/)
+[MongoDB Compass(GUI to view JSON backend)](https://www.mongodb.com/products/compass)
+[MongoDB Account(We need this to acquire API key)](https://docs.mongodb.com/realm/authentication/api-key/)
 
-Install with NPM 
+
+## Local Installation
+
+Clone Repo
+```
+git clone https://github.com/brennerhaverlock/Vendfront.git
+```
+### CD into folder Install dependencies
 
 ```
+git clone https://github.com/brennerhaverlock/Vendfront.git
+cd Vendfront
 npm install 
 ```
 
-```
-npm start 
-```
-
-
-Install with Yarn 
+### Create .env file in root directory with these parameters 
 
 ```
-yarn install 
+touch .env
 ```
 
+### Change following values in .env file 
+
 ```
-yarn dev 
+MONGODB_URI=mongodb://localhost/<yourdatabasename>
 ```
 
 
+
+
+
+
+
+
+### Deployment to local
+
+``` 
+npm run dev
+```
 
 
 
