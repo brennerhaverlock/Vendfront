@@ -20,11 +20,11 @@ function reducer(state, action) {
       return { ...state, darkMode: true };
     case 'DARK_MODE_OFF':
       return { ...state, darkMode: false };
-    case 'CART_ADD_ITEM': {
-      const newItem = action.payload;
-      const existItem = state.cart.cartItems.find(
-        (item) => item._id === newItem._id
-      );
+      case 'CART_ADD_ITEM': {
+        const newItem = action.payload;
+        const existItem = state.cart.cartItems.find(
+          (item) => item._id === newItem._id
+        );
       const cartItems = existItem
         ? state.cart.cartItems.map((item) =>
             item.name === existItem.name ? newItem : item

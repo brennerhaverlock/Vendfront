@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useContext} from 'react';
 import NextLink from 'next/link';
 import Image from 'next/image';
 import {
@@ -15,7 +15,11 @@ import useStyles from '../../utils/styles';
 import Product from '../../models/Product';
 import db from '../../utils/db';
 
+import axios from 'axios';
+import { Store } from '../../utils/Store';
+
 export default function ProductScreen(props) {
+  const { dispatch } = useContext(Store);
   const { product } = props;
   const classes = useStyles();
   if (!product) {
@@ -90,7 +94,12 @@ export default function ProductScreen(props) {
               </ListItem>
               <ListItem>
                 <Button fullWidth variant="contained" color="primary">
-                  Add to cart
+                <Button
+                  fullWidth
+                  variant="contained"
+                  color="primary"
+                  onClick={addToCartHandler}
+                >
                 </Button>
               </ListItem>
             </List>
