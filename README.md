@@ -17,28 +17,34 @@ Fall Intensive Project
 * Ability to add,delete, and edit products to store(Soon)
 * Use Stripe/Paypal to pay for and process payments(Soon)
 
+## Prerequisites
 
-## Run
+[MongoDB Community Edition](https://docs.mongodb.com/manual/installation/)
 
-Install with NPM 
+
+## Installation
+
+Clone Repo
+```
+git clone https://github.com/brennerhaverlock/Vendfront.git
+```
+
+### Install dependencies
 
 ```
 npm install 
 ```
 
-```
-npm start 
-```
-
-
-Install with Yarn 
+### Create .env file with these parameters 
 
 ```
-yarn install 
+MONGODB_URI=mongodb://localhost/<yourprojectname>
 ```
 
-```
-yarn dev 
+### Deployment to local
+
+``` 
+npm run dev
 ```
 
 
