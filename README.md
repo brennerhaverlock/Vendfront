@@ -26,17 +26,6 @@ Fall Intensive Project
 
 ## Local Installation
 
-Clone Repo
-```
-git clone https://github.com/brennerhaverlock/Vendfront.git
-```
-### CD into folder Install dependencies
-
-```
-git clone https://github.com/brennerhaverlock/Vendfront.git
-cd Vendfront
-npm install 
-```
 
 ### Create .env file in root directory with these parameters 
 
@@ -48,6 +37,16 @@ touch .env
 
 ```
 MONGODB_URI=mongodb://localhost/<yourdatabasename>
+```
+
+### CD into folder Install dependencies
+
+```
+$git clone https://github.com/brennerhaverlock/Vendfront.git
+$ npm install
+$ npm run dev
+$ Open http://localhost:3000/api/seed (loads data from data.js)
+$ Open http://localhost:3000
 ```
 
 
