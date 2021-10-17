@@ -42,13 +42,13 @@ cd Vendfront
 npm install 
 ```
 
-### Create .env file in root directory with these parameters 
+### Create .env file in root directory
 
 ```
 touch .env
 ```
 
-### Change following values in .env file 
+### Add following values in .env file 
 
 ```
 MONGODB_URI=mongodb://localhost/<yourdatabasename>
