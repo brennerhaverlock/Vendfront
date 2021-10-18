@@ -31,5 +31,17 @@
   "devDependencies": {
     "eslint": "7.29.0",
     "eslint-config-next": "11.0.1"
-  }
+  },
+  "description": "Fall Intensive Project",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brennerhaverlock/Vendfront.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brennerhaverlock/Vendfront/issues"
+  },
+  "homepage": "https://github.com/brennerhaverlock/Vendfront#readme"
 }
