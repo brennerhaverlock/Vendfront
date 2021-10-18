@@ -45,11 +45,13 @@ touch .env
 
 ```
 MONGODB_URI=mongodb://localhost/<yourdatabasename>
+```  
+
+```
+$ npm run dev
 ```
 
-$ npm run dev
 $ Open http://localhost:3000/api/seed (loads data from data.js)
-
 $ Open http://localhost:3000
 ```
 
