@@ -14,3 +14,74 @@ a {
 * {
   box-sizing: border-box;
 }
+
+
+#app {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  color: #2c3e50;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 25px;
+}
+
+.highlighter {
+  background: rgba(0, 255, 0, 0.25);
+  border: 1px dashed #fff;
+  z-index: 1;
+  position: absolute;
+}
+
+#liveVideo {
+  position: relative;
+  float: left;
+  /* width: 100%; */
+  margin: 10px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#liveVideo p {
+  position: absolute;
+  padding: 5px;
+  background-color: rgba(255, 111, 0, 0.85);
+  color: #FFF;
+  border: 1px dashed rgba(255, 255, 255, 0.7);
+  z-index: 2;
+  font-size: 12px;
+}
+
+#canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  z-index: 10;
+  /* background-color: rgba(255, 0, 0, 0.5); */
+}
+
+#all-controls {
+  padding: 25px;
+}
+
+#model_prog_main {
+  width: 50%;
+}
+
+.video-controls {
+  display: flex;
+  gap: 10px;
+}
+
+#ver {
+  font-style: italic;
+}
+
+.gallery {
+  margin-bottom: 15px;
+  text-align: center;
+}
